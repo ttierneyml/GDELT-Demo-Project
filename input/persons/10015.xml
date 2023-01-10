@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10015</personId>
+  <nameGroup>
+    <givenname>
+      <value>Abe</value>
+    </givenname>
+    <surname>
+      <value>Scotcher</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Abe Scotcher </value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2015-09-03T17:52:38Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2018-01-19T12:04:52Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2017-12-19T07:40:29Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>breekie0@nymag.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>bpiet1@issuu.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>272-310-2121</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>150-994-5442</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>151-588-6193</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>rgwillyam2@usda.gov</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>256-36-0086</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2018-01-29T11:33:11Z</ts>
+        <uploadedBy>mbrowning0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-10-28T05:29:44Z</ts>
+        <uploadedBy>jcaville0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>33 Karstens Park</street>
+      <city>Las Vegas</city>
+      <state>NV</state>
+      <postal>89166</postal>
+      <country>United States</country>
+      <latitude>36.3265</latitude>
+      <longitude>-115.3398</longitude>
+    </address>
+    <address>
+      <street>786 Sullivan Road</street>
+      <city>Pensacola</city>
+      <state>FL</state>
+      <postal>32511</postal>
+      <country>United States</country>
+      <latitude>30.4061</latitude>
+      <longitude>-87.2917</longitude>
+    </address>
+    <address>
+      <street>35090 Corscot Lane</street>
+      <city>Lexington</city>
+      <state>KY</state>
+      <postal>40505</postal>
+      <country>United States</country>
+      <latitude>38.0612</latitude>
+      <longitude>-84.4583</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>University of Northern British Columbia</name>
+      <city>Blainville</city>
+      <state>QC</state>
+      <postal>J7J</postal>
+      <latitude>45.7013243</latitude>
+      <longitude>-73.9284855</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-06-10T15:47:24Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-02-25T14:14:33Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-04-07T22:55:49Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2017-07-10T07:16:17Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2015-02-12T05:08:34Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10005.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-06.jpg</imageSrc>
+      <fullname>Renell Zylbermann </fullname>
+      <city>Riverside</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10074.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Paton Bemrose </fullname>
+      <city>Lincoln</city>
+      <state>NE</state>
+    </relation>
+    <relation>
+      <id>/person/10076.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Merilee Lamberton </fullname>
+      <city>Saint Louis</city>
+      <state>MO</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-23T10:51:29Z</ts>
+    <user>ascotchere</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-22T18:55:07Z</ts>
+    <user>ascotchere</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>true</important>
+      <ts>2022-02-14</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-01-18</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-27</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-02-21</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://abc.net.au</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://sogou.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://icq.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Topiclounge</place>
+      <predplace>transferredTo Topiclounge</predplace>
+      <ts>2013-03-28T04:17:26Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-05-26T21:17:29Z</ts>
+        <createdBy>Murial Elder</createdBy>
+        <approvedBy>Sebastian Mattson</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Meejo</place>
+      <predplace>transferredTo Meejo</predplace>
+      <ts>2019-11-10T11:08:07Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-04-11T04:21:40Z</ts>
+        <createdBy>Lorrie Gurrado</createdBy>
+        <approvedBy>Robinetta Scarse</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Demizz</place>
+      <predplace>transferredTo Demizz</predplace>
+      <ts>2017-01-26T15:23:39Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-08-19T10:01:15Z</ts>
+        <createdBy>Annis Elcoat</createdBy>
+        <approvedBy>Roda Seymer</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Zoomzone</place>
+      <predplace>transferredTo Zoomzone</predplace>
+      <ts>2019-03-25T12:58:21Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-04-16T13:59:47Z</ts>
+        <createdBy>Kalie Goburn</createdBy>
+        <approvedBy>Janene Wermerling</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Meetz</place>
+      <predplace>transferredTo Meetz</predplace>
+      <ts>2019-02-04T01:22:43Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-07-03T19:59:32Z</ts>
+        <createdBy>Basil Chattaway</createdBy>
+        <approvedBy>Maia Mohring</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Indonesia</place>
+      <predplace>livedIn Indonesia</predplace>
+      <end>2017-04-28T04:28:11Z</end>
+      <start>2016-03-17T23:12:12Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://irs.gov</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://dyndns.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://mysql.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

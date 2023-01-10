@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10063</personId>
+  <nameGroup>
+    <givenname>
+      <value>Elden</value>
+    </givenname>
+    <surname>
+      <value>Grievson</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Elden Grievson </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2012-11-06T15:45:29Z</ts>
+      </source>
+      <source>
+        <name>Washington Post</name>
+        <ts>2018-08-30T14:14:55Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>amcilroy0@sun.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>jsleigh1@mapquest.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>lhenbury2@walmart.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>472-904-7529</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>431-611-4703</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>rlinnard1@usgs.gov</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>186-768-4342</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>746-27-6142</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-10-08T23:03:12Z</ts>
+        <uploadedBy>akelwick0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2011-08-24T12:37:31Z</ts>
+        <uploadedBy>mcoy0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>81280 Monterey Junction</street>
+      <city>Miami</city>
+      <state>FL</state>
+      <postal>33164</postal>
+      <country>United States</country>
+      <latitude>25.5584</latitude>
+      <longitude>-80.4582</longitude>
+    </address>
+    <address>
+      <street>0056 Ohio Road</street>
+      <city>Lexington</city>
+      <state>KY</state>
+      <postal>40586</postal>
+      <country>United States</country>
+      <latitude>38.0283</latitude>
+      <longitude>-84.4715</longitude>
+    </address>
+    <address>
+      <street>666 Northland Place</street>
+      <city>Washington</city>
+      <state>DC</state>
+      <postal>20414</postal>
+      <country>United States</country>
+      <latitude>38.884</latitude>
+      <longitude>-77.0221</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United Kingdom</country>
+      <name>International Colleges of Islamic Science</name>
+      <city>Linton</city>
+      <state>ENG</state>
+      <postal>BD23</postal>
+      <latitude>54.0542238</latitude>
+      <longitude>-2.0215836</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-01-04T00:01:12Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-05-15T15:14:38Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Canada</country>
+      <name>Ontario College of Art and Design</name>
+      <city>Saskatoon</city>
+      <state>SK</state>
+      <postal>S7W</postal>
+      <latitude>52.1527462</latitude>
+      <longitude>-106.5473023</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-07-30T10:01:39Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-06-04T12:23:09Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-02-22T10:29:08Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2020-05-27T21:59:07Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10027.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Wiatt Troyes </fullname>
+      <city>Monroe</city>
+      <state>LA</state>
+    </relation>
+    <relation>
+      <id>/person/10044.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Theodosia Rayment </fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10064.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Quintina Gower </fullname>
+      <city>Davenport</city>
+      <state>IA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-12T12:34:36Z</ts>
+    <user>egrievson1q</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-22T12:58:41Z</ts>
+    <user>egrievson1q</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>kaizikovitch0</handle>
+      <address>https://chronoengine.com/molestie/nibh/in.js</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-24</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-02-21</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-01-31</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-02-04</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://jalbum.net</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://princeton.edu</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://scientificamerican.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Voonix</place>
+      <predplace>startedAt Voonix</predplace>
+      <ts>2015-10-12T07:51:38Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-10-06T16:30:38Z</ts>
+        <createdBy>Norri Linnock</createdBy>
+        <approvedBy>Kelley Fretter</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Twitterbeat</place>
+      <predplace>startedAt Twitterbeat</predplace>
+      <ts>2018-11-02T03:31:32Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-04-09T06:34:20Z</ts>
+        <createdBy>Burr Mundie</createdBy>
+        <approvedBy>Llywellyn Chatenet</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Layo</place>
+      <predplace>transferredTo Layo</predplace>
+      <ts>2015-01-02T02:53:00Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-02-03T16:46:52Z</ts>
+        <createdBy>Chrissie Gambrell</createdBy>
+        <approvedBy>Carlita Penson</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Kazu</place>
+      <predplace>endedAt Kazu</predplace>
+      <ts>2015-01-25T00:40:07Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-10-18T02:36:24Z</ts>
+        <createdBy>Grenville Klimpt</createdBy>
+        <approvedBy>Alisander Fleckness</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Camimbo</place>
+      <predplace>endedAt Camimbo</predplace>
+      <ts>2014-10-22T18:31:37Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-11-15T08:05:56Z</ts>
+        <createdBy>Avigdor Kempson</createdBy>
+        <approvedBy>Hoebart Blackeby</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>China</place>
+      <predplace>visited China</predplace>
+      <end>2017-08-27T11:18:32Z</end>
+      <start>2014-04-24T18:25:53Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://free.fr</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://paypal.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://buzzfeed.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

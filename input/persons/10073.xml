@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10073</personId>
+  <nameGroup>
+    <givenname>
+      <value>Hakim</value>
+    </givenname>
+    <surname>
+      <value>Mattisssen</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Hakim Mattisssen </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-08-15T23:50:48Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>candretti0@goodreads.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>hbelford1@hao123.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>aroubeix2@fda.gov</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>714-233-2169</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>730-373-5389</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>407-719-8778</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>465-730-2806</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>290-65-3360</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2017-05-31T11:36:42Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-12-16T09:19:00Z</ts>
+        <uploadedBy>jrabl0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2015-03-29T20:57:34Z</ts>
+        <uploadedBy>cindge0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>008 Everett Way</street>
+      <city>Newton</city>
+      <state>MA</state>
+      <postal>02162</postal>
+      <country>United States</country>
+      <latitude>42.3319</latitude>
+      <longitude>-71.254</longitude>
+    </address>
+    <address>
+      <street>8 Maryland Place</street>
+      <city>Lakewood</city>
+      <state>WA</state>
+      <postal>98498</postal>
+      <country>United States</country>
+      <latitude>47.1591</latitude>
+      <longitude>-122.5485</longitude>
+    </address>
+    <address>
+      <street>29344 Lyons Lane</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <postal>68124</postal>
+      <country>United States</country>
+      <latitude>41.2338</latitude>
+      <longitude>-96.0495</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad de Colima</name>
+      <city>Independencia</city>
+      <state>PUE</state>
+      <postal>75780</postal>
+      <latitude>19.3803931</latitude>
+      <longitude>-99.1476908</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-04-19T04:46:14Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-11-01T06:40:54Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-12-10T18:40:20Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2011-05-26T07:49:37Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2012-05-10T13:35:05Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2017-04-12T20:59:15Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10027.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Wiatt Troyes </fullname>
+      <city>Monroe</city>
+      <state>LA</state>
+    </relation>
+    <relation>
+      <id>/person/10030.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Scotti Caddell </fullname>
+      <city>Pueblo</city>
+      <state>CO</state>
+    </relation>
+    <relation>
+      <id>/person/10025.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Filberto Bruckent </fullname>
+      <city>Austin</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10038.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-10.jpg</imageSrc>
+      <fullname>Abie O'Shaughnessy </fullname>
+      <city>Santa Monica</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-25T18:25:17Z</ts>
+    <user>hmattisssen20</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-27T02:37:59Z</ts>
+    <user>hmattisssen20</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle/>
+      <address>https://senate.gov/suscipit/ligula/in.jsp</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle/>
+      <address>https://spotify.com/non/lectus/aliquam/sit.jsp</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-25</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>false</important>
+      <ts>2022-02-19</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://mozilla.org</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://nih.gov</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://cargocollective.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Topicware</place>
+      <predplace>transferredTo Topicware</predplace>
+      <ts>2013-03-03T14:10:30Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-05-23T18:23:14Z</ts>
+        <createdBy>Aubine Montfort</createdBy>
+        <approvedBy>Babbette Ellerey</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Twimm</place>
+      <predplace>startedAt Twimm</predplace>
+      <ts>2016-01-15T09:29:23Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-06-04T04:53:25Z</ts>
+        <createdBy>Iorgo De Witt</createdBy>
+        <approvedBy>Berry Otham</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Skyble</place>
+      <predplace>startedAt Skyble</predplace>
+      <ts>2017-05-06T10:16:11Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-09-25T23:34:15Z</ts>
+        <createdBy>Bambi Billie</createdBy>
+        <approvedBy>Dayna Fishby</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Japan</place>
+      <predplace>livedIn Japan</predplace>
+      <end>2017-11-23T04:30:51Z</end>
+      <start>2015-06-07T15:44:32Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://usgs.gov</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://nationalgeographic.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://posterous.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10080</personId>
+  <nameGroup>
+    <givenname>
+      <value>Damara</value>
+    </givenname>
+    <surname>
+      <value>Arlott</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>false</restricted>
+      <value>Damara Arlott </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-10-17T08:30:55Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>gschuricht0@wordpress.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>hpaternoster1@earthlink.net</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>982-812-4338</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>464-156-3825</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>onunson1@ebay.co.uk</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>792-888-6121</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>343-77-0023</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-06-28T10:01:10Z</ts>
+        <uploadedBy>cvannozzii0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>6 Johnson Court</street>
+      <city>Trenton</city>
+      <state>NJ</state>
+      <postal>08608</postal>
+      <country>United States</country>
+      <latitude>40.2204</latitude>
+      <longitude>-74.7622</longitude>
+    </address>
+    <address>
+      <street>5 La Follette Junction</street>
+      <city>Los Angeles</city>
+      <state>CA</state>
+      <postal>90040</postal>
+      <country>United States</country>
+      <latitude>33.9909</latitude>
+      <longitude>-118.1532</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Dakota State University</name>
+      <city>Roanoke</city>
+      <state>VA</state>
+      <postal>24009</postal>
+      <latitude>37.27</latitude>
+      <longitude>-79.94</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-05-08T01:38:02Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-05-29T03:25:26Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2013-02-23T15:49:38Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2010-05-25T16:55:31Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2012-06-28T08:16:31Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10018.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Mabelle Veryan </fullname>
+      <city>Charleston</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10079.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Duke Hanson </fullname>
+      <city>Trenton</city>
+      <state>NJ</state>
+    </relation>
+    <relation>
+      <id>/person/10039.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>April Archley </fullname>
+      <city>Durham</city>
+      <state>NC</state>
+    </relation>
+    <relation>
+      <id>/person/10026.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Marrilee Whitecross </fullname>
+      <city>Dallas</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-28T03:31:43Z</ts>
+    <user>darlott27</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-11T23:33:51Z</ts>
+    <user>darlott27</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-13</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-28</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>true</important>
+      <ts>2022-01-07</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-01-28</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-03</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-01-07</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://scientificamerican.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://techcrunch.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://skyrock.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Mynte</place>
+      <predplace>transferredTo Mynte</predplace>
+      <ts>2015-12-26T20:15:30Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-15T00:10:22Z</ts>
+        <createdBy>Trey Marzello</createdBy>
+        <approvedBy>Shannan Lafferty</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Demizz</place>
+      <predplace>startedAt Demizz</predplace>
+      <ts>2017-09-23T05:31:12Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-02-17T10:11:21Z</ts>
+        <createdBy>Kipp Roast</createdBy>
+        <approvedBy>Inger Biles</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>China</place>
+      <predplace>servedIn China</predplace>
+      <end>2017-03-19T15:28:00Z</end>
+      <start>2014-05-14T12:45:03Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://whitehouse.gov</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://mit.edu</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://patch.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

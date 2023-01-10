@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10047</personId>
+  <nameGroup>
+    <givenname>
+      <value>Bryana</value>
+    </givenname>
+    <surname>
+      <value>Obispo</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>false</restricted>
+      <value>Bryana Obispo </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-07-31T21:33:28Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2012-06-17T20:10:09Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2017-09-27T21:32:17Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>dtucknutt0@webeden.co.uk</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>osumpter1@house.gov</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>927-204-9466</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>887-781-7477</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>931-989-8799</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>646-523-6390</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>737-88-6564</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-09-03T11:58:25Z</ts>
+        <uploadedBy>eantham0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>4 Moulton Terrace</street>
+      <city>Chicago</city>
+      <state>IL</state>
+      <postal>60669</postal>
+      <country>United States</country>
+      <latitude>41.8119</latitude>
+      <longitude>-87.6873</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Autónoma de Ciudad Juárez</name>
+      <city>San Jose</city>
+      <state>COL</state>
+      <postal>33856</postal>
+      <latitude>18.8962696</latitude>
+      <longitude>-96.9417785</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-12-13T18:34:43Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-03-14T21:00:17Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-06-27T21:47:47Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>God's Bible School and College</name>
+      <city>Saint Paul</city>
+      <state>MN</state>
+      <postal>55188</postal>
+      <latitude>44.9468994</latitude>
+      <longitude>-92.9105987</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-02-18T11:24:08Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-05-20T11:37:32Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2010-01-15T14:36:21Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10030.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Scotti Caddell </fullname>
+      <city>Pueblo</city>
+      <state>CO</state>
+    </relation>
+    <relation>
+      <id>/person/10069.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Davon Jentle </fullname>
+      <city>Champaign</city>
+      <state>IL</state>
+    </relation>
+    <relation>
+      <id>/person/10016.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Christel O'Longain </fullname>
+      <city>New York City</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10090.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Krishnah Winslade </fullname>
+      <city>Minneapolis</city>
+      <state>MN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-17T14:36:47Z</ts>
+    <user>bobispo1a</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-10T02:04:59Z</ts>
+    <user>bobispo1a</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>lguerrero0</handle>
+      <address>https://salon.com/dapibus/nulla/suscipit.jpg</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>cbowld1</handle>
+      <address>http://prnewswire.com/primis/in/faucibus/orci.jpg</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>rnorewood2</handle>
+      <address>https://redcross.org/neque/sapien.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list8</list>
+      <important>false</important>
+      <ts>2022-02-05</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-19</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-02-15</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-29</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-27</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://pcworld.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://parallels.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://buzzfeed.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Skipfire</place>
+      <predplace>startedAt Skipfire</predplace>
+      <ts>2013-04-23T04:06:26Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2022-02-22T10:02:45Z</ts>
+        <createdBy>Read Aggas</createdBy>
+        <approvedBy>Nilson Ilyinski</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Vimbo</place>
+      <predplace>transferredTo Vimbo</predplace>
+      <ts>2014-05-17T11:02:58Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-06-05T10:57:57Z</ts>
+        <createdBy>Kristoffer Mingardo</createdBy>
+        <approvedBy>Madlen Fish</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Realpoint</place>
+      <predplace>movedTo Realpoint</predplace>
+      <ts>2014-12-12T22:13:38Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-03-26T16:06:07Z</ts>
+        <createdBy>Putnam Callan</createdBy>
+        <approvedBy>Illa Troker</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Jabbersphere</place>
+      <predplace>startedAt Jabbersphere</predplace>
+      <ts>2013-06-10T03:52:26Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-10-26T01:27:43Z</ts>
+        <createdBy>Wilmar Lovering</createdBy>
+        <approvedBy>Zared Kingzett</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>China</place>
+      <predplace>visited China</predplace>
+      <end>2017-04-30T13:22:32Z</end>
+      <start>2014-12-17T06:21:32Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://ibm.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://shareasale.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://merriam-webster.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

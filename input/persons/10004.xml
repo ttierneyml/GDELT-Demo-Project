@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10004</personId>
+  <nameGroup>
+    <givenname>
+      <value>Ora</value>
+    </givenname>
+    <surname>
+      <value>O' Kelleher</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Ora O' Kelleher </value>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-11-19T08:48:19Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-03-01T11:40:19Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>djolliman0@dmoz.org</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>924-843-7221</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>pscolland0@psu.edu</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>grippen1@liveinternet.ru</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>966-731-9799</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>555-40-1755</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2010-03-30T07:31:09Z</ts>
+        <uploadedBy>kmallison0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-02-13T11:34:01Z</ts>
+        <uploadedBy>sjiracek0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>02533 Springview Lane</street>
+      <city>Tulsa</city>
+      <state>OK</state>
+      <postal>74170</postal>
+      <country>United States</country>
+      <latitude>36.1398</latitude>
+      <longitude>-96.0297</longitude>
+    </address>
+    <address>
+      <street>14525 Clarendon Trail</street>
+      <city>Indianapolis</city>
+      <state>IN</state>
+      <postal>46295</postal>
+      <country>United States</country>
+      <latitude>39.7795</latitude>
+      <longitude>-86.1328</longitude>
+    </address>
+    <address>
+      <street>854 Sheridan Center</street>
+      <city>Austin</city>
+      <state>TX</state>
+      <postal>78721</postal>
+      <country>United States</country>
+      <latitude>30.2721</latitude>
+      <longitude>-97.6868</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Mount Aloysius College</name>
+      <city>Atlanta</city>
+      <state>GA</state>
+      <postal>31106</postal>
+      <latitude>33.75</latitude>
+      <longitude>-84.39</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-04-14T16:54:42Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Bradley University</name>
+      <city>Simi Valley</city>
+      <state>CA</state>
+      <postal>93094</postal>
+      <latitude>34.28</latitude>
+      <longitude>-118.7</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-04-01T13:01:13Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2011-10-09T10:45:56Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2021-04-02T22:03:20Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10082.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Wenona Gyver </fullname>
+      <city>Naples</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10041.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Rene Drew-Clifton </fullname>
+      <city>San Antonio</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10022.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Parrnell Chandler </fullname>
+      <city>El Paso</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-01T17:17:15Z</ts>
+    <user>ookelleher3</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-12T12:26:11Z</ts>
+    <user>ookelleher3</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>lmacourek0</handle>
+      <address>http://exblog.jp/urna.json</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-23</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-02-11</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-02-06</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://lulu.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://msu.edu</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://ebay.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Twinte</place>
+      <predplace>transferredTo Twinte</predplace>
+      <ts>2019-06-09T07:22:01Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-05-24T07:34:44Z</ts>
+        <createdBy>Adair Dory</createdBy>
+        <approvedBy>Saxon Dockreay</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Realpoint</place>
+      <predplace>endedAt Realpoint</predplace>
+      <ts>2019-07-29T13:35:54Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-11-03T15:58:07Z</ts>
+        <createdBy>Beitris Coull</createdBy>
+        <approvedBy>Penelope Eberz</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>China</place>
+      <predplace>livedIn China</predplace>
+      <end>2018-10-30T22:33:38Z</end>
+      <start>2014-04-02T11:07:31Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://chron.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://bing.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://digg.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

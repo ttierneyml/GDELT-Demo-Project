@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10097</personId>
+  <nameGroup>
+    <givenname>
+      <value>Faydra</value>
+    </givenname>
+    <surname>
+      <value>Habben</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Faydra Habben </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-02-04T00:40:21Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-05-21T13:34:51Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-01-24T04:56:57Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>arutherfoord0@amazon.co.jp</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>swebland1@epa.gov</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>gsanchiz2@foxnews.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>514-619-8725</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>kmenco0@tamu.edu</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>994-318-9446</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>shanretty2@adobe.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>782-20-0098</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-09-12T22:42:53Z</ts>
+        <uploadedBy>jcissell0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2013-07-27T16:07:58Z</ts>
+        <uploadedBy>jstapells0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-10-26T18:25:16Z</ts>
+        <uploadedBy>fbaline0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>5001 Ridgeview Parkway</street>
+      <city>El Paso</city>
+      <state>TX</state>
+      <postal>88525</postal>
+      <country>United States</country>
+      <latitude>31.6948</latitude>
+      <longitude>-106.3</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>Mount Royal College</name>
+      <city>Fredericton</city>
+      <state>NB</state>
+      <postal>E3G</postal>
+      <latitude>46.0765073</latitude>
+      <longitude>-66.7299108</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-10-19T03:13:38Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-02-14T05:02:12Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-07-15T03:22:17Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2014-03-01T02:06:16Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2013-04-17T23:06:19Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10051.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Clarette Jeavons </fullname>
+      <city>Anaheim</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10049.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Bianka Howsego </fullname>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+    </relation>
+    <relation>
+      <id>/person/10026.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Marrilee Whitecross </fullname>
+      <city>Dallas</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-18T03:36:48Z</ts>
+    <user>fhabben2o</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-01T10:10:32Z</ts>
+    <user>fhabben2o</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>mfowkes0</handle>
+      <address>http://tamu.edu/ligula/nec/sem/duis/aliquam.js</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>lspick1</handle>
+      <address>https://4shared.com/odio.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-09</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-02-20</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-01-20</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-12</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>false</important>
+      <ts>2022-02-11</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://house.gov</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://seesaa.net</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://mit.edu</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Flashset</place>
+      <predplace>transferredTo Flashset</predplace>
+      <ts>2014-07-16T22:54:08Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-10-12T12:29:08Z</ts>
+        <createdBy>Papageno Trundle</createdBy>
+        <approvedBy>Joey Vanns</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Kazio</place>
+      <predplace>endedAt Kazio</predplace>
+      <ts>2014-04-18T06:23:42Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-09-28T00:48:51Z</ts>
+        <createdBy>Moyra Ridgeway</createdBy>
+        <approvedBy>Luise Picot</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>United States</place>
+      <predplace>livedIn United States</predplace>
+      <end>2018-07-07T11:22:51Z</end>
+      <start>2014-12-07T11:41:57Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://ocn.ne.jp</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://mozilla.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://technorati.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

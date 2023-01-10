@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10013</personId>
+  <nameGroup>
+    <givenname>
+      <value>Tori</value>
+    </givenname>
+    <surname>
+      <value>Jerzykiewicz</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Tori Jerzykiewicz </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2017-06-07T04:35:54Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-01-01T14:42:41Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-04-14T21:59:56Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>mmagauran0@earthlink.net</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>mkennion1@cocolog-nifty.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>gyakubovics2@disqus.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>880-153-6950</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>676-887-9823</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>238-908-3738</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>mswaysland2@deviantart.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>784-83-8486</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2017-04-02T05:22:52Z</ts>
+        <uploadedBy>kkybird0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>07502 Vahlen Parkway</street>
+      <city>Minneapolis</city>
+      <state>MN</state>
+      <postal>55423</postal>
+      <country>United States</country>
+      <latitude>44.8756</latitude>
+      <longitude>-93.2553</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>University of Toronto</name>
+      <city>Saint-Lin-Laurentides</city>
+      <state>QC</state>
+      <postal>J5M</postal>
+      <latitude>45.8524432</latitude>
+      <longitude>-73.7572393</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-06-09T10:14:28Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-07-12T22:59:16Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2012-08-02T17:59:03Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10054.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Amargo Hicklingbottom </fullname>
+      <city>Kansas City</city>
+      <state>MO</state>
+    </relation>
+    <relation>
+      <id>/person/10002.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Ashlin Phizakarley </fullname>
+      <city>Spartanburg</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10061.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Cynde De la Yglesias </fullname>
+      <city>Madison</city>
+      <state>WI</state>
+    </relation>
+    <relation>
+      <id>/person/10092.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Sharon Forster </fullname>
+      <city>Fort Lauderdale</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10078.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Addy Le Lievre </fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-13T03:37:25Z</ts>
+    <user>tjerzykiewiczc</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-04T15:52:52Z</ts>
+    <user>tjerzykiewiczc</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-01-06</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>true</important>
+      <ts>2022-01-23</ts>
+    </membership>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-02-08</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-02-27</ts>
+    </membership>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-02-19</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://bloglovin.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://artisteer.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://nps.gov</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Trilia</place>
+      <predplace>endedAt Trilia</predplace>
+      <ts>2012-06-15T08:12:13Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-08-18T20:26:48Z</ts>
+        <createdBy>Denni MacGilrewy</createdBy>
+        <approvedBy>Cary Garling</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Divavu</place>
+      <predplace>startedAt Divavu</predplace>
+      <ts>2019-05-26T08:57:50Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-06-27T21:08:23Z</ts>
+        <createdBy>Harwell Swinnard</createdBy>
+        <approvedBy>Tresa Stuckford</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yadel</place>
+      <predplace>endedAt Yadel</predplace>
+      <ts>2016-08-17T05:02:43Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-01-17T11:41:21Z</ts>
+        <createdBy>Keith Ransley</createdBy>
+        <approvedBy>Omero Cordingly</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>China</place>
+      <predplace>livedIn China</predplace>
+      <end>2017-10-15T14:19:11Z</end>
+      <start>2015-11-29T22:17:03Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://studiopress.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://usnews.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://sitemeter.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

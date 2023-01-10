@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10068</personId>
+  <nameGroup>
+    <givenname>
+      <value>Amye</value>
+    </givenname>
+    <surname>
+      <value>Steart</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Amye Steart </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2011-08-21T06:06:58Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2013-08-15T18:33:26Z</ts>
+      </source>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-01-17T03:43:31Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>dbaylay0@nyu.edu</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ekilgallon1@artisteer.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>222-935-2934</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>451-102-0136</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>655-676-6372</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>bsimister2@over-blog.com</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>259-68-0790</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-07-23T11:35:42Z</ts>
+        <uploadedBy>jservice0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2014-08-22T12:46:02Z</ts>
+        <uploadedBy>ialeksandrev0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-07-22T22:29:58Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2021-11-07T00:50:36Z</ts>
+        <uploadedBy>csmethurst0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>1 Twin Pines Crossing</street>
+      <city>Evansville</city>
+      <state>IN</state>
+      <postal>47732</postal>
+      <country>United States</country>
+      <latitude>37.9971</latitude>
+      <longitude>-87.575</longitude>
+    </address>
+    <address>
+      <street>26914 Parkside Trail</street>
+      <city>Norman</city>
+      <state>OK</state>
+      <postal>73071</postal>
+      <country>United States</country>
+      <latitude>35.233</latitude>
+      <longitude>-97.4067</longitude>
+    </address>
+    <address>
+      <street>95114 Crest Line Lane</street>
+      <city>Charleston</city>
+      <state>WV</state>
+      <postal>25305</postal>
+      <country>United States</country>
+      <latitude>38.3358</latitude>
+      <longitude>-81.6123</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Benemerita Universidad Autónoma de Puebla</name>
+      <city>San Isidro</city>
+      <state>GRO</state>
+      <postal>41004</postal>
+      <latitude>19.482042</latitude>
+      <longitude>-99.1985584</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-11-01T16:17:42Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-04-29T11:26:07Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2019-03-29T17:42:28Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10077.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Lay MacCorley </fullname>
+      <city>Stockton</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10092.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Sharon Forster </fullname>
+      <city>Fort Lauderdale</city>
+      <state>FL</state>
+    </relation>
+    <relation>
+      <id>/person/10009.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Fredelia Gartrell </fullname>
+      <city>Augusta</city>
+      <state>GA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-17T16:10:34Z</ts>
+    <user>asteart1v</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-11T22:21:12Z</ts>
+    <user>asteart1v</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>gdaile0</handle>
+      <address>https://stumbleupon.com/sed/lacus/morbi.html</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>eridwood1</handle>
+      <address>https://last.fm/aliquam/erat/volutpat/in/congue.json</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>sculligan2</handle>
+      <address>https://example.com/lectus/in/est.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list6</list>
+      <important>true</important>
+      <ts>2022-01-23</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-01-13</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-02-19</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-01-03</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-06</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://gnu.org</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://mozilla.org</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://elegantthemes.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Voolia</place>
+      <predplace>startedAt Voolia</predplace>
+      <ts>2012-12-27T08:06:46Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-10-29T04:46:01Z</ts>
+        <createdBy>Dolph Ayris</createdBy>
+        <approvedBy>Rafe Edlestone</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Latz</place>
+      <predplace>endedAt Latz</predplace>
+      <ts>2013-11-05T17:28:42Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-09-26T00:43:01Z</ts>
+        <createdBy>Brooks Lamy</createdBy>
+        <approvedBy>Philip Elvish</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Photofeed</place>
+      <predplace>transferredTo Photofeed</predplace>
+      <ts>2017-04-20T08:40:22Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-03-07T15:42:29Z</ts>
+        <createdBy>Obie Shatliff</createdBy>
+        <approvedBy>Sianna Lockley</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Meemm</place>
+      <predplace>movedTo Meemm</predplace>
+      <ts>2017-06-23T15:51:49Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-06-27T22:43:20Z</ts>
+        <createdBy>Fanny Yewen</createdBy>
+        <approvedBy>Sindee Avrahm</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>China</place>
+      <predplace>servedIn China</predplace>
+      <end>2018-03-19T00:59:47Z</end>
+      <start>2016-01-18T22:17:55Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://creativecommons.org</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://uol.com.br</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://nih.gov</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

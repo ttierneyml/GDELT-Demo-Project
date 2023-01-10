@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10065</personId>
+  <nameGroup>
+    <givenname>
+      <value>Anastasie</value>
+    </givenname>
+    <surname>
+      <value>McAllaster</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Anastasie McAllaster </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-07-28T09:46:39Z</ts>
+      </source>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-02-19T09:21:23Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2018-11-21T14:24:16Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>gsteven0@aol.com</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>kkarlolczak1@elegantthemes.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>rhastwell2@abc.net.au</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>747-889-5327</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>131-785-1081</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>jdyson1@businesswire.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>hpeddowe2@google.com.hk</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>288-90-5144</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-02-08T02:48:33Z</ts>
+        <uploadedBy>vyoull0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>45935 Mccormick Terrace</street>
+      <city>San Jose</city>
+      <state>CA</state>
+      <postal>95108</postal>
+      <country>United States</country>
+      <latitude>37.3378</latitude>
+      <longitude>-121.8908</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Veracruzana</name>
+      <city>La Virgen</city>
+      <state>MEX</state>
+      <postal>50695</postal>
+      <latitude>19.2535103</latitude>
+      <longitude>-99.581953</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-11-27T21:36:58Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-30T16:58:44Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2016-12-29T23:29:58Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2017-07-14T20:49:21Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10083.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Jodie Huddleston </fullname>
+      <city>Pittsburgh</city>
+      <state>PA</state>
+    </relation>
+    <relation>
+      <id>/person/10023.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Wynne Laing </fullname>
+      <city>Lancaster</city>
+      <state>PA</state>
+    </relation>
+    <relation>
+      <id>/person/10079.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Duke Hanson </fullname>
+      <city>Trenton</city>
+      <state>NJ</state>
+    </relation>
+    <relation>
+      <id>/person/10049.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Bianka Howsego </fullname>
+      <city>Colorado Springs</city>
+      <state>CO</state>
+    </relation>
+    <relation>
+      <id>/person/10016.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Christel O'Longain </fullname>
+      <city>New York City</city>
+      <state>NY</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-27T16:03:38Z</ts>
+    <user>amcallaster1s</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-14T23:15:25Z</ts>
+    <user>amcallaster1s</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>sporter0</handle>
+      <address>https://nasa.gov/justo/sollicitudin/ut/suscipit/a/feugiat/et.html</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>ledowes1</handle>
+      <address>https://apache.org/pretium/quis/lectus.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-01</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-07</ts>
+    </membership>
+    <membership>
+      <list>list4</list>
+      <important>true</important>
+      <ts>2022-02-13</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-01-04</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-30</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://sfgate.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://e-recht24.de</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://icio.us</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Tazz</place>
+      <predplace>endedAt Tazz</predplace>
+      <ts>2017-02-17T19:13:16Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-11-23T05:21:21Z</ts>
+        <createdBy>Tadeo Mulcock</createdBy>
+        <approvedBy>Uri Skeldinge</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Jabbercube</place>
+      <predplace>endedAt Jabbercube</predplace>
+      <ts>2012-10-16T13:04:56Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-07-22T22:55:33Z</ts>
+        <createdBy>Helaina Coleyshaw</createdBy>
+        <approvedBy>Minna Yetts</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Quimm</place>
+      <predplace>movedTo Quimm</predplace>
+      <ts>2017-10-06T12:38:51Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-06-04T22:49:06Z</ts>
+        <createdBy>Teresa Nimmo</createdBy>
+        <approvedBy>Rupert Kinchington</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Yamia</place>
+      <predplace>transferredTo Yamia</predplace>
+      <ts>2018-04-23T03:02:02Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-12-11T18:22:34Z</ts>
+        <createdBy>Adamo Burbank</createdBy>
+        <approvedBy>Jacques Claypole</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Roomm</place>
+      <predplace>transferredTo Roomm</predplace>
+      <ts>2013-08-03T16:38:58Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2021-08-07T18:42:41Z</ts>
+        <createdBy>Alecia Drury</createdBy>
+        <approvedBy>Geri Giacobazzi</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>South Africa</place>
+      <predplace>visited South Africa</predplace>
+      <end>2018-06-19T14:19:34Z</end>
+      <start>2014-12-01T23:27:29Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://geocities.jp</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://plala.or.jp</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://thetimes.co.uk</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

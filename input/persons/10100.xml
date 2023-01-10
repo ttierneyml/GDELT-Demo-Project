@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10100</personId>
+  <nameGroup>
+    <givenname>
+      <value>Gav</value>
+    </givenname>
+    <surname>
+      <value>Flagg</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Gav Flagg </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2018-01-27T12:21:17Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>akillock0@hugedomains.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>plocker1@bloglovin.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>307-726-9556</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>185-395-8311</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>916-794-4383</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>986-240-4295</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>898-86-2007</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2010-08-11T01:36:12Z</ts>
+        <uploadedBy>rolek0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-05-10T11:03:53Z</ts>
+        <uploadedBy>thigford0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-05-27T18:26:26Z</ts>
+        <uploadedBy>jsleight0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2017-11-26T14:27:42Z</ts>
+        <uploadedBy>amowsdill0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>1 Katie Hill</street>
+      <city>Fullerton</city>
+      <state>CA</state>
+      <postal>92835</postal>
+      <country>United States</country>
+      <latitude>33.8994</latitude>
+      <longitude>-117.9063</longitude>
+    </address>
+    <address>
+      <street>8262 Armistice Pass</street>
+      <city>Charlotte</city>
+      <state>NC</state>
+      <postal>28205</postal>
+      <country>United States</country>
+      <latitude>35.22</latitude>
+      <longitude>-80.7881</longitude>
+    </address>
+    <address>
+      <street>68 Corry Crossing</street>
+      <city>Pittsburgh</city>
+      <state>PA</state>
+      <postal>15205</postal>
+      <country>United States</country>
+      <latitude>40.4322</latitude>
+      <longitude>-80.1021</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Escuela Bancaria y Comercial</name>
+      <city>Buenavista</city>
+      <state>OAX</state>
+      <postal>71730</postal>
+      <latitude>19.4458447</latitude>
+      <longitude>-99.1497664</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2016-06-14T02:26:48Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Washington Post</name>
+      <ts>2013-08-19T05:51:55Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2017-08-22T06:07:37Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10083.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Jodie Huddleston </fullname>
+      <city>Pittsburgh</city>
+      <state>PA</state>
+    </relation>
+    <relation>
+      <id>/person/10065.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Anastasie McAllaster </fullname>
+      <city>San Jose</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-12T12:28:52Z</ts>
+    <user>gflagg2r</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-06T13:37:10Z</ts>
+    <user>gflagg2r</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>cbagwell0</handle>
+      <address>http://furl.net/eu/massa/donec/dapibus.png</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>wdarling1</handle>
+      <address>https://uiuc.edu/integer/non/velit/donec.html</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>lizat2</handle>
+      <address>http://craigslist.org/felis/sed/lacus/morbi.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>false</important>
+      <ts>2022-02-20</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>true</important>
+      <ts>2022-02-16</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>true</important>
+      <ts>2022-01-05</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>false</important>
+      <ts>2022-02-25</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-04</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://1688.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://amazon.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://businesswire.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Thoughtworks</place>
+      <predplace>endedAt Thoughtworks</predplace>
+      <ts>2015-04-05T13:26:12Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-09-12T18:11:50Z</ts>
+        <createdBy>Alvin Vescovini</createdBy>
+        <approvedBy>Read Peppett</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Agimba</place>
+      <predplace>transferredTo Agimba</predplace>
+      <ts>2019-03-08T18:44:56Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-12-18T03:06:48Z</ts>
+        <createdBy>Hetti Grayer</createdBy>
+        <approvedBy>Joanna Assender</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Mita</place>
+      <predplace>movedTo Mita</predplace>
+      <ts>2020-02-17T19:46:05Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2022-02-08T07:31:39Z</ts>
+        <createdBy>Kamillah Ainsby</createdBy>
+        <approvedBy>Gisele Rockcliff</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Realpoint</place>
+      <predplace>startedAt Realpoint</predplace>
+      <ts>2015-03-19T19:43:29Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-03-26T13:51:02Z</ts>
+        <createdBy>Ingaberg Baigrie</createdBy>
+        <approvedBy>Rhodia Ingliby</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Poland</place>
+      <predplace>servedIn Poland</predplace>
+      <end>2018-10-01T18:45:40Z</end>
+      <start>2015-01-09T05:39:38Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://wordpress.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://goodreads.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://blinklist.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

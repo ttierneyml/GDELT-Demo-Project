@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10003</personId>
+  <nameGroup>
+    <givenname>
+      <value>Gram</value>
+    </givenname>
+    <surname>
+      <value>Guillou</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Gram Guillou </value>
+      <source>
+        <name>Washington Post</name>
+        <ts>2014-10-11T17:13:14Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>tcardwell0@arizona.edu</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>ocantera1@nbcnews.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>135-129-2686</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>146-746-7002</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>sscotting1@ucoz.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>ggeekin2@narod.ru</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>121-41-6821</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-07-31T23:45:29Z</ts>
+        <uploadedBy>hscattergood0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2011-10-07T20:12:37Z</ts>
+        <uploadedBy>vdacke0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-08.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2017-10-09T05:23:31Z</ts>
+        <uploadedBy>pcregin0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>88901 Summit Alley</street>
+      <city>Buffalo</city>
+      <state>NY</state>
+      <postal>14210</postal>
+      <country>United States</country>
+      <latitude>42.8614</latitude>
+      <longitude>-78.8206</longitude>
+    </address>
+    <address>
+      <street>18406 Golf Circle</street>
+      <city>Albany</city>
+      <state>GA</state>
+      <postal>31704</postal>
+      <country>United States</country>
+      <latitude>31.55</latitude>
+      <longitude>-84.0612</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Mexico</country>
+      <name>Universidad Regional Miguel Hidalgo</name>
+      <city>Las Americas</city>
+      <state>TAM</state>
+      <postal>88925</postal>
+      <latitude>19.3999682</latitude>
+      <longitude>-99.2047894</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-11-06T06:39:28Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>Kent State University - Salem</name>
+      <city>Pittsburgh</city>
+      <state>PA</state>
+      <postal>15240</postal>
+      <latitude>40.4888987</latitude>
+      <longitude>-79.8900686</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-11-26T00:00:02Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-02-08T14:55:41Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2016-11-06T20:38:18Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2010-03-30T09:16:46Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2019-06-27T06:39:53Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10029.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-05.jpg</imageSrc>
+      <fullname>Dilly Berdale </fullname>
+      <city>Atlanta</city>
+      <state>GA</state>
+    </relation>
+    <relation>
+      <id>/person/10077.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Lay MacCorley </fullname>
+      <city>Stockton</city>
+      <state>CA</state>
+    </relation>
+    <relation>
+      <id>/person/10100.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Gav Flagg </fullname>
+      <city>Fullerton</city>
+      <state>CA</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-04T04:28:10Z</ts>
+    <user>gguillou2</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-17T22:02:23Z</ts>
+    <user>gguillou2</user>
+  </lastUpdated>
+  <socials/>
+  <memberships>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-27</ts>
+    </membership>
+    <membership>
+      <list>list6</list>
+      <important>false</important>
+      <ts>2022-01-24</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-01-21</ts>
+    </membership>
+    <membership>
+      <list>list2</list>
+      <important>true</important>
+      <ts>2022-01-11</ts>
+    </membership>
+    <membership>
+      <list>list9</list>
+      <important>true</important>
+      <ts>2022-01-17</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://gov.uk</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://go.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://miibeian.gov.cn</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Oyoba</place>
+      <predplace>startedAt Oyoba</predplace>
+      <ts>2016-07-20T13:26:36Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2022-01-05T15:50:33Z</ts>
+        <createdBy>Kattie Bowlesworth</createdBy>
+        <approvedBy>Melinda Di Giacomettino</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Jetpulse</place>
+      <predplace>endedAt Jetpulse</predplace>
+      <ts>2015-12-15T05:16:46Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2022-01-17T21:39:00Z</ts>
+        <createdBy>Cristi Lonsbrough</createdBy>
+        <approvedBy>Anita MacCaughen</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Brightbean</place>
+      <predplace>movedTo Brightbean</predplace>
+      <ts>2014-12-29T09:31:34Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-07-25T18:43:37Z</ts>
+        <createdBy>Cammie Grahamslaw</createdBy>
+        <approvedBy>Stefania Jephcott</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Avamm</place>
+      <predplace>movedTo Avamm</predplace>
+      <ts>2013-08-04T20:47:24Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-12-16T10:06:42Z</ts>
+        <createdBy>Tawsha Lehenmann</createdBy>
+        <approvedBy>Kenn Saturley</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Japan</place>
+      <predplace>livedIn Japan</predplace>
+      <end>2018-04-23T22:17:30Z</end>
+      <start>2015-03-12T06:22:03Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://wiley.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://ted.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://msu.edu</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

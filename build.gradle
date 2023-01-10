@@ -1,0 +1,102 @@
+plugins {
+  id "com.marklogic.ml-gradle" version "4.3.2"
+}
+
+repositories {
+	mavenCentral()
+	maven { url "https://developer.marklogic.com/maven2/" }
+    maven { url "https://nexus.marklogic.com/repository/maven-snapshots"}
+}
+
+
+configurations {
+	mlcp
+}
+
+dependencies {
+    mlcp "com.marklogic:mlcp:10.0.6.2"
+    mlcp files("lib")
+}
+
+task getZip(type: Exec){
+  workingDir "/Users/ttierney/Code/entity-viewer"
+  commandLine './getZip.sh'
+}
+
+task ingestData(type: Exec){
+  dependsOn getZip
+  workingDir "/Users/ttierney/Code/entity-viewer"
+  commandLine './everythingShell.sh'
+}
+
+task dedupData(type: com.marklogic.gradle.task.ServerEvalTask) {
+  xquery = new File('dedup.xqy').getText('UTF-8')
+}
+
+task modifyData(type: Exec){
+  workingDir "/Users/ttierney/Code/entity-viewer"
+  commandLine './modify.sh'
+}
+
+task refreshData{
+  dependsOn ingestData
+  dependsOn modifyData
+  dependsOn dedupData
+  modifyData.mustRunAfter(dedupData)
+  dedupData.mustRunAfter(ingestData)
+}
+/**
+ * Example of using MlcpTask to import data with mlcp.
+ *
+
+task importPersonsViaMlcp(type: com.marklogic.gradle.task.MlcpTask) {
+    description = "Load person docs"
+    classpath = configurations.mlcp
+    command = "IMPORT"
+    port = 8099
+    host = "localhost"
+    username = "admin"
+    password = "admin"
+    output_collections = "person"
+    input_file_path = "input/persons"
+    input_file_type = "documents"
+    output_collections = "person"
+    output_permissions = "rest-reader,read,rest-reader,update"
+    output_uri_replace = ".*input/persons,'/person'"
+    mode = "local"
+}
+
+task importOrganizationsViaMlcp(type: com.marklogic.gradle.task.MlcpTask) {
+    description = "Load organization docs"
+    classpath = configurations.mlcp
+    command = "IMPORT"
+    port = 8099
+    host = "localhost"
+    username = "admin"
+    password = "admin"
+    output_collections = "organization"
+    input_file_path = "input/organizations"
+    input_file_type = "documents"
+    output_collections = "organization"
+    output_permissions = "rest-reader,read,rest-reader,update"
+    output_uri_replace = ".*input/organizations,'/organization'"
+    mode = "local"
+}
+/*
+task extractZip(type: Copy) {
+    description = "Extract input.zip as part of deployment so that sample data is available for ingestion."
+    from zipTree('input.zip')
+    def destDir = System.getProperty("user.dir")
+    destinationDir = file(destDir)
+    doLast {
+        println("Input directory is extracted to: " + destDir + "/input")
+    }
+}
+
+if(exampleData == "true") {
+    mlDeploy.dependsOn extractZip
+    mlDeploy.finalizedBy importPersonsViaMlcp, importOrganizationsViaMlcp
+}
+
+
+*/

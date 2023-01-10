@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10035</personId>
+  <nameGroup>
+    <givenname>
+      <value>Larisa</value>
+    </givenname>
+    <surname>
+      <value>Keneford</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Larisa Keneford </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2017-07-16T23:32:47Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>mwaulker0@ucla.edu</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>455-409-4581</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>lstopforth0@answers.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>728-619-8458</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>672-705-9268</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>619-43-6664</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2010-12-05T07:35:53Z</ts>
+        <uploadedBy>csouthers0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-04.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2012-06-26T23:28:28Z</ts>
+        <uploadedBy>pocarran0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>7044 Norway Maple Pass</street>
+      <city>Boston</city>
+      <state>MA</state>
+      <postal>02298</postal>
+      <country>United States</country>
+      <latitude>42.3823</latitude>
+      <longitude>-71.0323</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>St. Ambrose University</name>
+      <city>New York City</city>
+      <state>NY</state>
+      <postal>10270</postal>
+      <latitude>40.7051078</latitude>
+      <longitude>-74.0056827</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-02-23T10:14:41Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2013-12-21T11:40:57Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-02-14T20:16:38Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2010-11-06T13:33:29Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2013-05-04T05:19:28Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Chicago Tribune</name>
+      <ts>2020-04-17T08:28:50Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10033.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Mag Garnsey </fullname>
+      <city>Schenectady</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10046.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Tadeo McCurt </fullname>
+      <city>Dallas</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10096.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Stearne Mocquer </fullname>
+      <city>Kansas City</city>
+      <state>MO</state>
+    </relation>
+    <relation>
+      <id>/person/10011.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Ardis Wilfinger </fullname>
+      <city>Saint Joseph</city>
+      <state>MO</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-26T01:25:40Z</ts>
+    <user>lkenefordy</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-23T02:43:46Z</ts>
+    <user>lkenefordy</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>cstrathern0</handle>
+      <address>http://blog.com/ultrices/erat/tortor.jpg</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>cmountstephen1</handle>
+      <address>http://google.es/tempus.png</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>fpacey2</handle>
+      <address>http://comsenz.com/ultrices/vel/augue/vestibulum.js</address>
+    </social>
+  </socials>
+  <memberships/>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://tiny.cc</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://mapquest.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://blogs.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Mudo</place>
+      <predplace>transferredTo Mudo</predplace>
+      <ts>2012-01-03T20:22:08Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-04-25T00:24:26Z</ts>
+        <createdBy>Karel Wegener</createdBy>
+        <approvedBy>Modesty Dzeniskevich</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Wikido</place>
+      <predplace>movedTo Wikido</predplace>
+      <ts>2019-11-23T11:54:06Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-03-15T10:17:10Z</ts>
+        <createdBy>Rowena Windle</createdBy>
+        <approvedBy>Cirillo Greenfield</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Gigaclub</place>
+      <predplace>endedAt Gigaclub</predplace>
+      <ts>2015-10-02T10:28:14Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-04-15T06:38:26Z</ts>
+        <createdBy>Ericka Durbann</createdBy>
+        <approvedBy>Sena Minmagh</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Zoombeat</place>
+      <predplace>endedAt Zoombeat</predplace>
+      <ts>2014-05-04T16:17:26Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-05-13T17:34:25Z</ts>
+        <createdBy>Bing Fanshaw</createdBy>
+        <approvedBy>Dolli Strathman</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Mynte</place>
+      <predplace>transferredTo Mynte</predplace>
+      <ts>2016-10-21T06:00:44Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-03-05T14:59:38Z</ts>
+        <createdBy>Sharleen Duchenne</createdBy>
+        <approvedBy>Mira Buckoke</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Indonesia</place>
+      <predplace>livedIn Indonesia</predplace>
+      <end>2018-03-25T11:06:32Z</end>
+      <start>2014-11-24T04:20:27Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://google.nl</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://nationalgeographic.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://issuu.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

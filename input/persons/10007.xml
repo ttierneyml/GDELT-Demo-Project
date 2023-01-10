@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10007</personId>
+  <nameGroup>
+    <givenname>
+      <value>Reuven</value>
+    </givenname>
+    <surname>
+      <value>Wyman</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>false</restricted>
+      <value>Reuven Wyman </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-12-27T15:00:46Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2019-08-08T09:27:06Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>lmcglaughn0@shutterfly.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>948-250-4435</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>850-847-9017</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>165-673-3355</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>691-285-0240</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>861-56-4803</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-09-06T12:33:21Z</ts>
+        <uploadedBy>bmorin0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-10.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-09-27T22:18:54Z</ts>
+        <uploadedBy>bgreenhouse0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>382 Fair Oaks Alley</street>
+      <city>Philadelphia</city>
+      <state>PA</state>
+      <postal>19178</postal>
+      <country>United States</country>
+      <latitude>40.0018</latitude>
+      <longitude>-75.1179</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>New College of California</name>
+      <city>Bellevue</city>
+      <state>WA</state>
+      <postal>98008</postal>
+      <latitude>47.6120759</latitude>
+      <longitude>-122.1112721</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-02-24T21:15:07Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-07-16T18:37:34Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>University of Virginia, College at Wise</name>
+      <city>Fort Wayne</city>
+      <state>IN</state>
+      <postal>46896</postal>
+      <latitude>41.01</latitude>
+      <longitude>-85.06</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-08-19T09:01:14Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2018-08-11T08:45:35Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Los Angeles Times</name>
+      <ts>2014-01-10T14:27:06Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10059.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-01.jpg</imageSrc>
+      <fullname>Prentiss Reford </fullname>
+      <city>Des Moines</city>
+      <state>IA</state>
+    </relation>
+    <relation>
+      <id>/person/10002.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Ashlin Phizakarley </fullname>
+      <city>Spartanburg</city>
+      <state>SC</state>
+    </relation>
+    <relation>
+      <id>/person/10072.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-02.jpg</imageSrc>
+      <fullname>Garrek Franzewitch </fullname>
+      <city>Salt Lake City</city>
+      <state>UT</state>
+    </relation>
+    <relation>
+      <id>/person/10034.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Hector Madeley </fullname>
+      <city>Indianapolis</city>
+      <state>IN</state>
+    </relation>
+    <relation>
+      <id>/person/10086.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-08.jpg</imageSrc>
+      <fullname>Muffin Feyer </fullname>
+      <city>Tyler</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-04T08:21:04Z</ts>
+    <user>rwyman6</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-06T20:38:17Z</ts>
+    <user>rwyman6</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>linkedin</site>
+      <handle>fmocher0</handle>
+      <address>https://sogou.com/ante/vivamus/tortor/duis.xml</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-01-14</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-02-27</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://seattletimes.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://amazon.co.jp</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://comcast.net</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Vimbo</place>
+      <predplace>transferredTo Vimbo</predplace>
+      <ts>2019-06-26T06:44:13Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-01-18T12:02:26Z</ts>
+        <createdBy>Brear Gibbon</createdBy>
+        <approvedBy>Lydia Bridgman</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Topicware</place>
+      <predplace>transferredTo Topicware</predplace>
+      <ts>2016-08-09T04:54:15Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-07-24T17:35:58Z</ts>
+        <createdBy>Carmine Petyankin</createdBy>
+        <approvedBy>Bond Snel</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Skivee</place>
+      <predplace>transferredTo Skivee</predplace>
+      <ts>2015-03-26T02:26:11Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-01-12T06:55:10Z</ts>
+        <createdBy>Honey Ivanuschka</createdBy>
+        <approvedBy>Rubina Gockeler</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Dynabox</place>
+      <predplace>endedAt Dynabox</predplace>
+      <ts>2015-03-27T04:40:11Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-10-04T06:25:14Z</ts>
+        <createdBy>Samantha Boatright</createdBy>
+        <approvedBy>Jobyna Garz</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Rhyloo</place>
+      <predplace>transferredTo Rhyloo</predplace>
+      <ts>2014-12-01T03:40:02Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-05-13T03:58:29Z</ts>
+        <createdBy>Natividad McGennis</createdBy>
+        <approvedBy>Kim Abele</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Ukraine</place>
+      <predplace>livedIn Ukraine</predplace>
+      <end>2018-05-31T05:10:45Z</end>
+      <start>2016-05-02T02:12:47Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://wikipedia.org</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://deliciousdays.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://ocn.ne.jp</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

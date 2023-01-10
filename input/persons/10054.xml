@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10054</personId>
+  <nameGroup>
+    <givenname>
+      <value>Amargo</value>
+    </givenname>
+    <surname>
+      <value>Hicklingbottom</value>
+    </surname>
+    <fullname>
+      <classification>U</classification>
+      <restricted>true</restricted>
+      <value>Amargo Hicklingbottom </value>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-04-18T13:44:55Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-10-14T11:58:53Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>blunnon0@home.pl</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>cgavrielly0@engadget.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>688-578-6220</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>mcorsar0@facebook.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>894-129-2548</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>595-170-9203</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>606-61-5141</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2011-09-27T15:16:03Z</ts>
+        <uploadedBy>pmein0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2018-07-26T02:21:12Z</ts>
+        <uploadedBy>bvalett1</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>887 Express Court</street>
+      <city>Kansas City</city>
+      <state>MO</state>
+      <postal>64114</postal>
+      <country>United States</country>
+      <latitude>38.9621</latitude>
+      <longitude>-94.5959</longitude>
+    </address>
+    <address>
+      <street>815 Fremont Circle</street>
+      <city>Billings</city>
+      <state>MT</state>
+      <postal>59105</postal>
+      <country>United States</country>
+      <latitude>45.9497</latitude>
+      <longitude>-108.599</longitude>
+    </address>
+    <address>
+      <street>2 Dawn Point</street>
+      <city>Spring</city>
+      <state>TX</state>
+      <postal>77386</postal>
+      <country>United States</country>
+      <latitude>30.1288</latitude>
+      <longitude>-95.4239</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>City University of New York, York College</name>
+      <city>Saint Louis</city>
+      <state>MO</state>
+      <postal>63150</postal>
+      <latitude>38.63</latitude>
+      <longitude>-90.2099999</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2010-02-19T15:52:31Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2016-08-03T21:10:37Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>Canada</country>
+      <name>Northern Lights College</name>
+      <city>Victoriaville</city>
+      <state>QC</state>
+      <postal>G6T</postal>
+      <latitude>46.0845</latitude>
+      <longitude>-71.9782415</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-10-31T05:33:20Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-05-07T20:26:33Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2015-08-24T17:58:43Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2018-02-01T09:49:31Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>USA Today</name>
+      <ts>2012-03-30T08:37:17Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10090.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Krishnah Winslade </fullname>
+      <city>Minneapolis</city>
+      <state>MN</state>
+    </relation>
+    <relation>
+      <id>/person/10044.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Theodosia Rayment </fullname>
+      <city>Seattle</city>
+      <state>WA</state>
+    </relation>
+    <relation>
+      <id>/person/10003.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Gram Guillou </fullname>
+      <city>Buffalo</city>
+      <state>NY</state>
+    </relation>
+    <relation>
+      <id>/person/10046.xml</id>
+      <predicate>livesWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Tadeo McCurt </fullname>
+      <city>Dallas</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-26T21:46:30Z</ts>
+    <user>ahicklingbottom1h</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-01-20T12:54:26Z</ts>
+    <user>ahicklingbottom1h</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>mabrahart0</handle>
+      <address>http://bloomberg.com/mauris/lacinia/sapien/quis/libero/nullam.xml</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>iemerton1</handle>
+      <address>https://odnoklassniki.ru/aenean/sit.js</address>
+    </social>
+    <social>
+      <site>linkedin</site>
+      <handle>rgerardet2</handle>
+      <address>http://webmd.com/ligula/pellentesque/ultrices/phasellus/id/sapien/in.png</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list1</list>
+      <important>true</important>
+      <ts>2022-01-28</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-02-04</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-12</ts>
+    </membership>
+    <membership>
+      <list>list12</list>
+      <important>true</important>
+      <ts>2022-01-06</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-26</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://livejournal.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>https://reuters.com</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://gnu.org</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Innojam</place>
+      <predplace>startedAt Innojam</predplace>
+      <ts>2019-01-08T00:00:51Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-11-05T10:33:50Z</ts>
+        <createdBy>Aida Renzini</createdBy>
+        <approvedBy>Mannie Corking</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Jamia</place>
+      <predplace>transferredTo Jamia</predplace>
+      <ts>2015-01-31T12:03:30Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-02-15T12:56:29Z</ts>
+        <createdBy>Wynny Casetta</createdBy>
+        <approvedBy>Rikki Ygoe</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Latz</place>
+      <predplace>movedTo Latz</predplace>
+      <ts>2014-08-18T02:39:00Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-09-28T17:44:10Z</ts>
+        <createdBy>Garik Streater</createdBy>
+        <approvedBy>Sena Martello</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Jayo</place>
+      <predplace>transferredTo Jayo</predplace>
+      <ts>2013-10-23T09:20:04Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-10-06T11:12:01Z</ts>
+        <createdBy>Donal Longstaff</createdBy>
+        <approvedBy>Connie Huskisson</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>South Africa</place>
+      <predplace>livedIn South Africa</predplace>
+      <end>2018-09-23T17:44:43Z</end>
+      <start>2014-10-27T14:32:28Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>https://walmart.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://unc.edu</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://meetup.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10033</personId>
+  <nameGroup>
+    <givenname>
+      <value>Mag</value>
+    </givenname>
+    <surname>
+      <value>Garnsey</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Mag Garnsey </value>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-11-25T22:17:48Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>abengefield0@ucoz.ru</value>
+      <classification>S</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>431-904-5205</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>570-192-3560</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>mmival1@nature.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>389-668-8298</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>796-66-9701</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-02.jpg</url>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2012-05-04T10:09:52Z</ts>
+        <uploadedBy>bberrisford0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2010-06-21T11:28:59Z</ts>
+        <uploadedBy>lsilson0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-01.jpg</url>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-04-01T03:55:20Z</ts>
+        <uploadedBy>hgaler0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2018-07-02T00:44:26Z</ts>
+        <uploadedBy>cgiacobilio0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>8271 Esch Crossing</street>
+      <city>Schenectady</city>
+      <state>NY</state>
+      <postal>12305</postal>
+      <country>United States</country>
+      <latitude>42.8161</latitude>
+      <longitude>-73.9398</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>MacEwan University</name>
+      <city>Langford</city>
+      <state>BC</state>
+      <postal>V9C</postal>
+      <latitude>48.4474626</latitude>
+      <longitude>-123.4956337</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2018-04-06T01:44:23Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2015-04-03T00:04:12Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2014-04-06T00:22:23Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2019-12-08T09:00:24Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10036.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Tomaso Harty </fullname>
+      <city>Wilmington</city>
+      <state>DE</state>
+    </relation>
+    <relation>
+      <id>/person/10087.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-07.jpg</imageSrc>
+      <fullname>Carlyle Dowker </fullname>
+      <city>Memphis</city>
+      <state>TN</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-02-11T15:01:35Z</ts>
+    <user>mgarnseyw</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-16T09:12:18Z</ts>
+    <user>mgarnseyw</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>sbrowett0</handle>
+      <address>http://icio.us/felis/fusce/posuere/felis/sed/lacus.jpg</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle/>
+      <address>http://reuters.com/fermentum/donec/ut.html</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>gephgrave2</handle>
+      <address>https://mashable.com/varius/ut.jpg</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>true</important>
+      <ts>2022-01-20</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-01-03</ts>
+    </membership>
+    <membership>
+      <list>list8</list>
+      <important>true</important>
+      <ts>2022-02-12</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>https://goodreads.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://123-reg.co.uk</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://opera.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Gigaclub</place>
+      <predplace>startedAt Gigaclub</predplace>
+      <ts>2015-01-31T18:35:24Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-09-14T07:37:01Z</ts>
+        <createdBy>Boycey Pfeffle</createdBy>
+        <approvedBy>Joanie Bennett</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Livetube</place>
+      <predplace>transferredTo Livetube</predplace>
+      <ts>2015-06-14T08:13:18Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-06-16T12:42:31Z</ts>
+        <createdBy>Eimile Lorkins</createdBy>
+        <approvedBy>Fredra Kerslake</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Yoveo</place>
+      <predplace>movedTo Yoveo</predplace>
+      <ts>2014-02-22T06:12:26Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2020-08-31T22:19:17Z</ts>
+        <createdBy>Patrizio Sisey</createdBy>
+        <approvedBy>Ainslee Roch</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Riffpedia</place>
+      <predplace>startedAt Riffpedia</predplace>
+      <ts>2019-09-15T02:53:11Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2021-11-10T18:29:51Z</ts>
+        <createdBy>Brendis Nibloe</createdBy>
+        <approvedBy>Melina Ruffell</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>visited</predicate>
+      <place>Indonesia</place>
+      <predplace>visited Indonesia</predplace>
+      <end>2018-11-19T22:40:20Z</end>
+      <start>2015-04-14T09:10:40Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://xrea.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>http://wufoo.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>http://quantcast.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

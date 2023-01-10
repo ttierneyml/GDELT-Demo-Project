@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10020</personId>
+  <nameGroup>
+    <givenname>
+      <value>Susette</value>
+    </givenname>
+    <surname>
+      <value>Cridland</value>
+    </surname>
+    <fullname>
+      <classification>S</classification>
+      <restricted>true</restricted>
+      <value>Susette Cridland </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2016-05-27T21:22:45Z</ts>
+      </source>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2010-05-09T09:51:10Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>mgislebert0@livejournal.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>afills1@wufoo.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>jgrieg2@google.it</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>845-280-7177</phone>
+  <contacts>
+    <contact>
+      <type>phone</type>
+      <value>682-759-3080</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>houslem1@sun.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>733-474-1582</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>496-20-2928</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2010-03-25T20:42:07Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-03.jpg</url>
+      <source>
+        <name>Washington Post</name>
+        <ts>2016-12-06T11:00:54Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-06.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2019-04-17T16:34:42Z</ts>
+        <uploadedBy>dsebastian0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>7 Laurel Point</street>
+      <city>San Antonio</city>
+      <state>TX</state>
+      <postal>78260</postal>
+      <country>United States</country>
+      <latitude>29.7026</latitude>
+      <longitude>-98.4759</longitude>
+    </address>
+    <address>
+      <street>9 Spohn Parkway</street>
+      <city>Bismarck</city>
+      <state>ND</state>
+      <postal>58505</postal>
+      <country>United States</country>
+      <latitude>46.8165</latitude>
+      <longitude>-100.7805</longitude>
+    </address>
+    <address>
+      <street>66800 Helena Crossing</street>
+      <city>Davenport</city>
+      <state>IA</state>
+      <postal>52804</postal>
+      <country>United States</country>
+      <latitude>41.5386</latitude>
+      <longitude>-90.6115</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>United States</country>
+      <name>Triton College</name>
+      <city>Maple Plain</city>
+      <state>MN</state>
+      <postal>55572</postal>
+      <latitude>45.01</latitude>
+      <longitude>-93.65</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2013-06-23T21:15:31Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>DeVry Institute of Technology, Pomona</name>
+      <city>Toledo</city>
+      <state>OH</state>
+      <postal>43635</postal>
+      <latitude>41.6615259</latitude>
+      <longitude>-83.6861485</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2012-12-20T13:39:39Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Inactive</status>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2019-10-01T03:39:37Z</ts>
+    </source>
+  </sources>
+  <sources>
+    <source>
+      <name>New York Times</name>
+      <ts>2010-10-21T06:16:26Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10064.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Quintina Gower </fullname>
+      <city>Davenport</city>
+      <state>IA</state>
+    </relation>
+    <relation>
+      <id>/person/10096.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-09.jpg</imageSrc>
+      <fullname>Stearne Mocquer </fullname>
+      <city>Kansas City</city>
+      <state>MO</state>
+    </relation>
+    <relation>
+      <id>/person/10018.xml</id>
+      <predicate>relatedTo</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Mabelle Veryan </fullname>
+      <city>Charleston</city>
+      <state>SC</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-26T13:22:28Z</ts>
+    <user>scridlandj</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-02T02:00:32Z</ts>
+    <user>scridlandj</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>facebook</site>
+      <handle>pbushell0</handle>
+      <address>http://europa.eu/eu/tincidunt/in.jsp</address>
+    </social>
+    <social>
+      <site>facebook</site>
+      <handle>ncrowcher1</handle>
+      <address>http://wufoo.com/et/ultrices/posuere/cubilia/curae/nulla/dapibus.aspx</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list11</list>
+      <important>true</important>
+      <ts>2022-02-27</ts>
+    </membership>
+    <membership>
+      <list>list10</list>
+      <important>false</important>
+      <ts>2022-02-15</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://go.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://liveinternet.ru</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>https://opera.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Yacero</place>
+      <predplace>transferredTo Yacero</predplace>
+      <ts>2017-05-19T13:24:07Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2020-10-10T16:25:03Z</ts>
+        <createdBy>Leilah Muscroft</createdBy>
+        <approvedBy>Cassandry Monelle</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Gabvine</place>
+      <predplace>endedAt Gabvine</predplace>
+      <ts>2012-03-14T13:06:40Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2020-01-30T03:00:37Z</ts>
+        <createdBy>Brady Froschauer</createdBy>
+        <approvedBy>Derron Blanpein</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Topicblab</place>
+      <predplace>startedAt Topicblab</predplace>
+      <ts>2019-09-01T10:16:32Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-06-03T08:56:05Z</ts>
+        <createdBy>Dottie Hindrich</createdBy>
+        <approvedBy>Phaidra De Michele</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>servedIn</predicate>
+      <place>Indonesia</place>
+      <predplace>servedIn Indonesia</predplace>
+      <end>2018-05-28T02:23:03Z</end>
+      <start>2014-01-07T15:10:45Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://devhub.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://simplemachines.org</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://ihg.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>

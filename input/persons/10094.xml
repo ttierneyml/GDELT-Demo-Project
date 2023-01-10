@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+  <personId>10094</personId>
+  <nameGroup>
+    <givenname>
+      <value>Amanda</value>
+    </givenname>
+    <surname>
+      <value>Funnell</value>
+    </surname>
+    <fullname>
+      <classification>C</classification>
+      <restricted>true</restricted>
+      <value>Amanda Funnell </value>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2018-09-24T17:54:56Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2012-02-10T02:28:09Z</ts>
+      </source>
+    </fullname>
+  </nameGroup>
+  <emails>
+    <email>
+      <value>rstarbuck0@amazon.com</value>
+      <classification>C</classification>
+      <restricted>false</restricted>
+    </email>
+    <email>
+      <value>bcrayton1@webs.com</value>
+      <classification>U</classification>
+      <restricted>false</restricted>
+    </email>
+  </emails>
+  <phone>387-217-3802</phone>
+  <contacts>
+    <contact>
+      <type>email</type>
+      <value>brippin0@delicious.com</value>
+    </contact>
+    <contact>
+      <type>email</type>
+      <value>bbasham1@weather.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>866-748-0802</value>
+    </contact>
+  </contacts>
+  <ssn>
+    <value>265-62-6636</value>
+    <classification>(S)</classification>
+  </ssn>
+  <images>
+    <image>
+      <url>/images/persons/person-09.jpg</url>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2017-08-28T11:50:09Z</ts>
+        <uploadedBy/>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>USA Today</name>
+        <ts>2015-07-18T11:40:13Z</ts>
+        <uploadedBy>covery0</uploadedBy>
+      </source>
+    </image>
+    <image>
+      <url>/images/persons/person-07.jpg</url>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-07-05T16:24:18Z</ts>
+        <uploadedBy>fruzic0</uploadedBy>
+      </source>
+    </image>
+  </images>
+  <addresses>
+    <address>
+      <street>01 Merry Plaza</street>
+      <city>Norman</city>
+      <state>OK</state>
+      <postal>73071</postal>
+      <country>United States</country>
+      <latitude>35.233</latitude>
+      <longitude>-97.4067</longitude>
+    </address>
+    <address>
+      <street>4 Magdeline Plaza</street>
+      <city>Modesto</city>
+      <state>CA</state>
+      <postal>95397</postal>
+      <country>United States</country>
+      <latitude>37.6566</latitude>
+      <longitude>-121.0191</longitude>
+    </address>
+    <address>
+      <street>4 Dottie Hill</street>
+      <city>Boynton Beach</city>
+      <state>FL</state>
+      <postal>33436</postal>
+      <country>United States</country>
+      <latitude>26.5354</latitude>
+      <longitude>-80.1124</longitude>
+    </address>
+  </addresses>
+  <schools>
+    <school>
+      <country>Canada</country>
+      <name>Conestoga College</name>
+      <city>Saint John</city>
+      <state>NB</state>
+      <postal>E2L</postal>
+      <latitude>45.271697</latitude>
+      <longitude>-66.0549467</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2021-12-10T11:32:07Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2010-04-19T11:43:42Z</ts>
+      </source>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2013-10-02T08:12:45Z</ts>
+      </source>
+    </school>
+    <school>
+      <country>United States</country>
+      <name>University of Mississippi Medical Center</name>
+      <city>Maple Plain</city>
+      <state>MN</state>
+      <postal>55579</postal>
+      <latitude>45.01</latitude>
+      <longitude>-93.65</longitude>
+      <source>
+        <name>USA Today</name>
+        <ts>2014-11-03T05:09:04Z</ts>
+      </source>
+      <source>
+        <name>New York Times</name>
+        <ts>2011-03-28T04:04:59Z</ts>
+      </source>
+    </school>
+  </schools>
+  <status>Active</status>
+  <sources>
+    <source>
+      <name>Wall Street Journal</name>
+      <ts>2021-05-29T09:24:25Z</ts>
+    </source>
+  </sources>
+  <relations>
+    <relation>
+      <id>/person/10046.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-03.jpg</imageSrc>
+      <fullname>Tadeo McCurt </fullname>
+      <city>Dallas</city>
+      <state>TX</state>
+    </relation>
+    <relation>
+      <id>/person/10026.xml</id>
+      <predicate>worksWith</predicate>
+      <imageSrc>/images/persons/person-04.jpg</imageSrc>
+      <fullname>Marrilee Whitecross </fullname>
+      <city>Dallas</city>
+      <state>TX</state>
+    </relation>
+  </relations>
+  <createdOn>
+    <ts>2022-01-09T10:47:45Z</ts>
+    <user>afunnell2l</user>
+  </createdOn>
+  <lastUpdated>
+    <ts>2022-02-07T20:19:33Z</ts>
+    <user>afunnell2l</user>
+  </lastUpdated>
+  <socials>
+    <social>
+      <site>twitter</site>
+      <handle>istile0</handle>
+      <address>http://sina.com.cn/cras/in.js</address>
+    </social>
+    <social>
+      <site>twitter</site>
+      <handle>ypetch1</handle>
+      <address>http://businesswire.com/integer.html</address>
+    </social>
+  </socials>
+  <memberships>
+    <membership>
+      <list>list3</list>
+      <important>false</important>
+      <ts>2022-01-08</ts>
+    </membership>
+    <membership>
+      <list>list11</list>
+      <important>false</important>
+      <ts>2022-02-25</ts>
+    </membership>
+    <membership>
+      <list>list7</list>
+      <important>false</important>
+      <ts>2022-01-12</ts>
+    </membership>
+    <membership>
+      <list>list5</list>
+      <important>false</important>
+      <ts>2022-02-04</ts>
+    </membership>
+  </memberships>
+  <links>
+    <link>
+      <label>Quick View</label>
+      <url>http://walmart.com</url>
+      <icon>faEye</icon>
+    </link>
+    <link>
+      <label>Nomination History</label>
+      <url>http://china.com.cn</url>
+      <icon>faMedal</icon>
+    </link>
+    <link>
+      <label>Comments</label>
+      <url>http://blogspot.com</url>
+      <icon>faComments</icon>
+    </link>
+  </links>
+  <activities>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Thoughtworks</place>
+      <predplace>endedAt Thoughtworks</predplace>
+      <ts>2014-03-01T07:10:47Z</ts>
+      <source>
+        <name>USA Today</name>
+        <ts>2022-01-01T12:36:16Z</ts>
+        <createdBy>Charlotte Berkeley</createdBy>
+        <approvedBy>Leta Tassell</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>movedTo</predicate>
+      <place>Fatz</place>
+      <predplace>movedTo Fatz</predplace>
+      <ts>2013-04-28T21:47:45Z</ts>
+      <source>
+        <name>New York Times</name>
+        <ts>2021-02-23T03:29:56Z</ts>
+        <createdBy>Katherine Quiddihy</createdBy>
+        <approvedBy>Cicily Fellowes</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>transferredTo</predicate>
+      <place>Tagchat</place>
+      <predplace>transferredTo Tagchat</predplace>
+      <ts>2012-05-14T11:10:55Z</ts>
+      <source>
+        <name>Chicago Tribune</name>
+        <ts>2021-08-28T06:59:13Z</ts>
+        <createdBy>Delora MacCarlich</createdBy>
+        <approvedBy>Hyacintha Piotrowski</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>startedAt</predicate>
+      <place>Eidel</place>
+      <predplace>startedAt Eidel</predplace>
+      <ts>2012-07-06T12:35:13Z</ts>
+      <source>
+        <name>Los Angeles Times</name>
+        <ts>2020-08-31T02:14:00Z</ts>
+        <createdBy>Candi Ingyon</createdBy>
+        <approvedBy>Elvira Durtnal</approvedBy>
+      </source>
+    </activity>
+    <activity>
+      <predicate>endedAt</predicate>
+      <place>Yakidoo</place>
+      <predplace>endedAt Yakidoo</predplace>
+      <ts>2015-06-12T21:34:02Z</ts>
+      <source>
+        <name>Wall Street Journal</name>
+        <ts>2020-04-18T12:44:38Z</ts>
+        <createdBy>Vania Hollingshead</createdBy>
+        <approvedBy>Geoffry Pugh</approvedBy>
+      </source>
+    </activity>
+  </activities>
+  <events>
+    <event>
+      <predicate>livedIn</predicate>
+      <place>Philippines</place>
+      <predplace>livedIn Philippines</predplace>
+      <end>2018-09-27T13:23:22Z</end>
+      <start>2014-01-19T14:30:37Z</start>
+    </event>
+  </events>
+  <actions>
+    <action>
+      <url>http://cnbc.com</url>
+      <icon>faCog</icon>
+    </action>
+    <action>
+      <url>https://fc2.com</url>
+      <icon>faCode</icon>
+    </action>
+    <action>
+      <url>https://acquirethisname.com</url>
+      <icon>faSync</icon>
+    </action>
+  </actions>
+</person>
