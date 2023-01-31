@@ -1,124 +1,65 @@
-2023-01-06 10:12:36,536 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-9] Forwarding the request to http://localhost:8080/api/explore/login
-2023-01-06 10:12:38,076 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-2] Created client for host: localhost
-2023-01-06 11:27:25,416 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.16.1 on macpro-6186 with PID 41379 (/Users/ttierney/Code/marklogic-entity-viewer-1.1.1.war started by ttierney in /Users/ttierney/Code/entity-viewer)
-2023-01-06 11:27:25,417 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
-2023-01-06 11:27:26,235 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
-2023-01-06 11:27:26,235 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
-2023-01-06 11:27:26,235 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
-2023-01-06 11:27:26,939 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
-2023-01-06 11:27:27,062 INFO com.marklogic.v1.HubCentral [main] Will connect to MarkLogic host: localhost
-2023-01-06 11:27:27,062 INFO com.marklogic.v1.HubCentral [main] Hub Central is available at port: 8080
-2023-01-06 11:27:27,408 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
-2023-01-06 11:27:27,447 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.502 seconds (JVM running for 2.892)
-2023-01-06 11:27:27,479 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules
-2023-01-06 11:27:27,606 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/data-services/ml-exp-search/ directory to load into entity-viewer-search-modules database
-2023-01-06 11:27:28,873 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.sjs loaded
-2023-01-06 11:27:28,878 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.api loaded
-2023-01-06 11:27:28,882 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.api loaded
-2023-01-06 11:27:28,886 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.api loaded
-2023-01-06 11:27:28,890 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.sjs loaded
-2023-01-06 11:27:28,897 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.api loaded
-2023-01-06 11:27:28,902 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.api loaded
-2023-01-06 11:27:28,906 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.sjs loaded
-2023-01-06 11:27:28,910 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.api loaded
-2023-01-06 11:27:28,916 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.api loaded
-2023-01-06 11:27:28,920 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.sjs loaded
-2023-01-06 11:27:28,925 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.sjs loaded
-2023-01-06 11:27:28,928 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/service.json loaded
-2023-01-06 11:27:28,934 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.sjs loaded
-2023-01-06 11:27:28,939 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.api loaded
-2023-01-06 11:27:28,946 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.sjs loaded
-2023-01-06 11:27:28,951 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.sjs loaded
-2023-01-06 11:27:28,955 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.api loaded
-2023-01-06 11:27:28,959 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.sjs loaded
-2023-01-06 11:27:28,959 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ml-search-lib/ directory to load into entity-viewer-search-modules database
-2023-01-06 11:27:28,965 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search-impl.xqy loaded
-2023-01-06 11:27:28,972 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search.sjs loaded
-2023-01-06 11:27:28,972 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/third-party/fast-xml-parser/ directory to load into entity-viewer-search-modules database
-2023-01-06 11:27:28,979 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.d.ts loaded
-2023-01-06 11:27:28,989 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/validator.js loaded
-2023-01-06 11:27:28,993 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json_str.js loaded
-2023-01-06 11:27:29,000 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.js loaded
-2023-01-06 11:27:29,006 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/read.js loaded
-2023-01-06 11:27:29,009 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlNode.js loaded
-2023-01-06 11:27:29,014 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/nimndata.js loaded
-2023-01-06 11:27:29,018 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json.js loaded
-2023-01-06 11:27:29,025 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlstr2xmlnode.js loaded
-2023-01-06 11:27:29,031 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/json2xml.js loaded
-2023-01-06 11:27:29,039 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/util.js loaded
-2023-01-06 11:27:29,039 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/search-lib/ directory to load into entity-viewer-search-modules database
-2023-01-06 11:27:29,352 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/search-lib/configurable-search-lib.sjs already exists. Not overriding the file
-2023-01-06 11:27:29,352 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ui-config/ directory to load into entity-viewer-search-modules database
-2023-01-06 11:27:29,358 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/api.config.sjs already exists. Not overriding the file
-2023-01-06 11:27:29,361 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/dashboard.config.sjs already exists. Not overriding the file
-2023-01-06 11:27:29,363 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/searchbox.config.sjs already exists. Not overriding the file
-2023-01-06 11:27:29,364 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/header.config.sjs already exists. Not overriding the file
-2023-01-06 11:27:29,367 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/search.config.sjs already exists. Not overriding the file
-2023-01-06 11:27:29,370 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/detail.config.sjs already exists. Not overriding the file
-2023-01-06 11:27:29,370 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules complete
-2023-01-06 11:27:32,948 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
-2023-01-06 11:27:33,366 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-3] Forwarding the request to http://localhost:8080/api/explore/login
-2023-01-06 11:27:33,429 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-6] Created client for host: localhost
-2023-01-06 11:27:39,601 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-10] Forwarding the request to http://localhost:8080/api/explore/login
-2023-01-06 11:27:39,616 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-2] Created client for host: localhost
-2023-01-06 12:00:11,003 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.16.1 on macpro-6186 with PID 44219 (/Users/ttierney/Code/marklogic-entity-viewer-1.1.1.war started by ttierney in /Users/ttierney/Code/entity-viewer)
-2023-01-06 12:00:11,006 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
-2023-01-06 12:00:11,807 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
-2023-01-06 12:00:11,807 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
-2023-01-06 12:00:11,807 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
-2023-01-06 12:00:12,516 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
-2023-01-06 12:00:12,634 INFO com.marklogic.v1.HubCentral [main] Will connect to MarkLogic host: localhost
-2023-01-06 12:00:12,634 INFO com.marklogic.v1.HubCentral [main] Hub Central is available at port: 8080
-2023-01-06 12:00:13,030 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
-2023-01-06 12:00:13,059 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.619 seconds (JVM running for 2.956)
-2023-01-06 12:00:13,088 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules
-2023-01-06 12:00:13,211 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/data-services/ml-exp-search/ directory to load into entity-viewer-search-modules database
-2023-01-06 12:00:14,523 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.sjs loaded
-2023-01-06 12:00:14,529 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.api loaded
-2023-01-06 12:00:14,533 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.api loaded
-2023-01-06 12:00:14,537 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.api loaded
-2023-01-06 12:00:14,541 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.sjs loaded
-2023-01-06 12:00:14,545 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.api loaded
-2023-01-06 12:00:14,551 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.api loaded
-2023-01-06 12:00:14,556 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.sjs loaded
-2023-01-06 12:00:14,587 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.api loaded
-2023-01-06 12:00:14,591 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.api loaded
-2023-01-06 12:00:14,596 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.sjs loaded
-2023-01-06 12:00:14,600 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.sjs loaded
-2023-01-06 12:00:14,604 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/service.json loaded
-2023-01-06 12:00:14,607 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.sjs loaded
-2023-01-06 12:00:14,614 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.api loaded
-2023-01-06 12:00:14,620 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.sjs loaded
-2023-01-06 12:00:14,624 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.sjs loaded
-2023-01-06 12:00:14,628 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.api loaded
-2023-01-06 12:00:14,634 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.sjs loaded
-2023-01-06 12:00:14,634 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ml-search-lib/ directory to load into entity-viewer-search-modules database
-2023-01-06 12:00:14,639 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search-impl.xqy loaded
-2023-01-06 12:00:14,645 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search.sjs loaded
-2023-01-06 12:00:14,645 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/third-party/fast-xml-parser/ directory to load into entity-viewer-search-modules database
-2023-01-06 12:00:14,650 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.d.ts loaded
-2023-01-06 12:00:14,658 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/validator.js loaded
-2023-01-06 12:00:14,663 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json_str.js loaded
-2023-01-06 12:00:14,667 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.js loaded
-2023-01-06 12:00:14,672 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/read.js loaded
-2023-01-06 12:00:14,676 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlNode.js loaded
-2023-01-06 12:00:14,681 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/nimndata.js loaded
-2023-01-06 12:00:14,685 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json.js loaded
-2023-01-06 12:00:14,691 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlstr2xmlnode.js loaded
-2023-01-06 12:00:14,696 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/json2xml.js loaded
-2023-01-06 12:00:14,701 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/util.js loaded
-2023-01-06 12:00:14,702 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/search-lib/ directory to load into entity-viewer-search-modules database
-2023-01-06 12:00:15,322 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/search-lib/configurable-search-lib.sjs loaded
-2023-01-06 12:00:15,323 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ui-config/ directory to load into entity-viewer-search-modules database
-2023-01-06 12:00:15,328 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/api.config.sjs already exists. Not overriding the file
-2023-01-06 12:00:15,330 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/dashboard.config.sjs already exists. Not overriding the file
-2023-01-06 12:00:15,332 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/searchbox.config.sjs already exists. Not overriding the file
-2023-01-06 12:00:15,342 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/header.config.sjs already exists. Not overriding the file
-2023-01-06 12:00:15,344 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/search.config.sjs already exists. Not overriding the file
-2023-01-06 12:00:15,345 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/detail.config.sjs already exists. Not overriding the file
-2023-01-06 12:00:15,345 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules complete
-2023-01-06 12:00:20,818 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
-2023-01-06 12:00:21,262 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-5] Forwarding the request to http://localhost:8080/api/explore/login
-2023-01-06 12:00:21,332 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-8] Created client for host: localhost
-2023-01-06 12:12:24,638 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-2] Forwarding the request to http://localhost:8080/api/explore/login
-2023-01-06 12:12:24,675 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-5] Created client for host: localhost
+2023-01-10 14:56:26,244 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.16.1 on macpro-6186 with PID 31998 (/Users/ttierney/Code/marklogic-entity-viewer-1.1.1.war started by ttierney in /Users/ttierney/Code/entity-viewer)
+2023-01-10 14:56:26,267 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-10 14:56:27,086 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-10 14:56:27,086 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-01-10 14:56:27,086 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-01-10 14:56:27,810 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-01-10 14:56:27,936 INFO com.marklogic.v1.HubCentral [main] Will connect to MarkLogic host: localhost
+2023-01-10 14:56:27,936 INFO com.marklogic.v1.HubCentral [main] Hub Central is available at port: 8080
+2023-01-10 14:56:28,356 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-01-10 14:56:28,389 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.875 seconds (JVM running for 3.293)
+2023-01-10 14:56:28,416 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules
+2023-01-10 14:56:28,569 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/data-services/ml-exp-search/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:31,896 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.sjs loaded
+2023-01-10 14:56:31,902 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.api loaded
+2023-01-10 14:56:31,906 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.api loaded
+2023-01-10 14:56:31,909 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.api loaded
+2023-01-10 14:56:31,913 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.sjs loaded
+2023-01-10 14:56:31,916 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.api loaded
+2023-01-10 14:56:31,919 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.api loaded
+2023-01-10 14:56:31,923 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.sjs loaded
+2023-01-10 14:56:31,926 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.api loaded
+2023-01-10 14:56:31,929 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.api loaded
+2023-01-10 14:56:31,933 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.sjs loaded
+2023-01-10 14:56:31,936 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.sjs loaded
+2023-01-10 14:56:31,939 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/service.json loaded
+2023-01-10 14:56:31,943 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.sjs loaded
+2023-01-10 14:56:31,948 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.api loaded
+2023-01-10 14:56:31,952 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.sjs loaded
+2023-01-10 14:56:31,955 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.sjs loaded
+2023-01-10 14:56:31,959 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.api loaded
+2023-01-10 14:56:31,962 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.sjs loaded
+2023-01-10 14:56:31,963 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ml-search-lib/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:31,968 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search-impl.xqy loaded
+2023-01-10 14:56:31,973 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search.sjs loaded
+2023-01-10 14:56:31,974 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/third-party/fast-xml-parser/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:31,978 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.d.ts loaded
+2023-01-10 14:56:31,986 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/validator.js loaded
+2023-01-10 14:56:31,990 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json_str.js loaded
+2023-01-10 14:56:31,994 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.js loaded
+2023-01-10 14:56:31,999 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/read.js loaded
+2023-01-10 14:56:32,002 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlNode.js loaded
+2023-01-10 14:56:32,006 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/nimndata.js loaded
+2023-01-10 14:56:32,010 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json.js loaded
+2023-01-10 14:56:32,016 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlstr2xmlnode.js loaded
+2023-01-10 14:56:32,020 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/json2xml.js loaded
+2023-01-10 14:56:32,024 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/util.js loaded
+2023-01-10 14:56:32,024 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/search-lib/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:32,313 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/search-lib/configurable-search-lib.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,314 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ui-config/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:32,320 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/api.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,324 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/dashboard.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,328 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/searchbox.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,330 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/header.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,332 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/search.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,333 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/detail.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,333 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules complete
+2023-01-10 14:56:38,413 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-10 14:56:39,143 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-5] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 14:56:39,192 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-8] Created client for host: localhost
+2023-01-10 15:01:55,281 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-3] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 15:01:55,317 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-3] Created client for host: localhost
+2023-01-10 15:02:23,644 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-4] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 15:02:23,671 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-3] Created client for host: localhost
+2023-01-10 15:02:37,757 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-1] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 15:02:37,782 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-8] Created client for host: localhost

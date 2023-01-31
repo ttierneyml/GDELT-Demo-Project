@@ -1,5 +1,6 @@
 plugins {
   id "com.marklogic.ml-gradle" version "4.3.2"
+  id "net.saliman.properties" version "1.4.6"
 }
 
 repositories {
@@ -19,8 +20,9 @@ dependencies {
 }
 
 task getZip(type: Exec){
+  requiredProperties "start", "end"
   workingDir "/Users/ttierney/Code/entity-viewer"
-  commandLine './getZip.sh'
+  commandLine './getZip.sh', project.getProperty("start"), project.getProperty("end")
 }
 
 task ingestData(type: Exec){
@@ -45,6 +47,19 @@ task refreshData{
   modifyData.mustRunAfter(dedupData)
   dedupData.mustRunAfter(ingestData)
 }
+/*
+task propertyTypes(){
+    doLast{
+        if (project.hasProperty("args")) {
+            println "Our input argument with project property ["+project.getProperty("args")+"]"
+        }
+        println "Our input argument with system property ["+System.getProperty("args")+"]"
+    }
+}
+
+task exec(type: Exec){
+  commandLine "echo", project.getProperty("start"), project.getProperty("end")
+} */
 /**
  * Example of using MlcpTask to import data with mlcp.
  *
@@ -82,7 +97,7 @@ task importOrganizationsViaMlcp(type: com.marklogic.gradle.task.MlcpTask) {
     output_uri_replace = ".*input/organizations,'/organization'"
     mode = "local"
 }
-/*
+
 task extractZip(type: Copy) {
     description = "Extract input.zip as part of deployment so that sample data is available for ingestion."
     from zipTree('input.zip')
@@ -92,11 +107,8 @@ task extractZip(type: Copy) {
         println("Input directory is extracted to: " + destDir + "/input")
     }
 }
-
 if(exampleData == "true") {
     mlDeploy.dependsOn extractZip
     mlDeploy.finalizedBy importPersonsViaMlcp, importOrganizationsViaMlcp
 }
-
-
 */

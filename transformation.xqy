@@ -84,7 +84,9 @@ let $day := fn:substring($SQLDATE, 7, 2)
 let $date := xs:date(fn:concat($year, "-", $month, "-", $day))
 let $formatted-date := local:formatDate(<date>{$date}</date>)
 let $elements := (<Actor1Code/>, <Actor1CountryCode/>, <Actor2Code/>, <Actor2CountryCode/>, <Actor1Geo_FullName/>, <Actor1Geo_CountryCode/>, <Actor1Geo_ADM1/>, <Actor1Geo_ADM2/>, <Actor1Geo_FeatureID/>, <Actor2Geo_FullName/>, <Actor2Geo_CountryCode/>, <Actor2Geo_ADM1/>, <Actor2Geo_ADM2/>, <Actor2Geo_FeatureID/>, <ActionGeo_FullName/>, <ActionGeo_CountryCode/>, <ActionGeo_ADM1Code/>, <ActionGeo_ADM2Code/>, <ActionGeo_FeatureID/>)
-let $codes := ("UP", "UKR", "Ukraine")
+let $codes := (
+    "UP", "UKR", "Ukraine"
+    )
 let $countryCode := cts:contains($source, cts:field-word-query($elements, $codes))
 let $countryCode1 := $source//Actor1Geo_CountryCode/text()
 let $countryCode2 := $source//Actor2Geo_CountryCode/text()
