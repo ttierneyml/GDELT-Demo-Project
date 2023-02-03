@@ -20,14 +20,19 @@ dependencies {
 }
 
 task getZip(type: Exec){
-  requiredProperties "start", "end"
-  workingDir "/Users/ttierney/Code/entity-viewer"
-  commandLine './getZip.sh', project.getProperty("start"), project.getProperty("end")
+  //requiredProperties "start", "end"
+  workingDir "/Users/ttierney/Code/internal/entity-viewer"
+  if (findProperty("start") && findProperty("end")){
+    commandLine './getZip.sh', project.getProperty("start"), project.getProperty("end")
+  }
+  else {
+    commandLine "echo", "ERROR: please enter to valid dates in YYYYMMDD format."
+  }
 }
 
 task ingestData(type: Exec){
   dependsOn getZip
-  workingDir "/Users/ttierney/Code/entity-viewer"
+  workingDir "/Users/ttierney/Code/internal/entity-viewer"
   commandLine './everythingShell.sh'
 }
 
@@ -36,7 +41,7 @@ task dedupData(type: com.marklogic.gradle.task.ServerEvalTask) {
 }
 
 task modifyData(type: Exec){
-  workingDir "/Users/ttierney/Code/entity-viewer"
+  workingDir "/Users/ttierney/Code/internal/entity-viewer"
   commandLine './modify.sh'
 }
 

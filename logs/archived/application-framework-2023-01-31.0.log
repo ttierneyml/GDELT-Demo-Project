@@ -1,0 +1,209 @@
+2023-01-10 14:56:26,244 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.16.1 on macpro-6186 with PID 31998 (/Users/ttierney/Code/marklogic-entity-viewer-1.1.1.war started by ttierney in /Users/ttierney/Code/entity-viewer)
+2023-01-10 14:56:26,267 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-10 14:56:27,086 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-10 14:56:27,086 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-01-10 14:56:27,086 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-01-10 14:56:27,810 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-01-10 14:56:27,936 INFO com.marklogic.v1.HubCentral [main] Will connect to MarkLogic host: localhost
+2023-01-10 14:56:27,936 INFO com.marklogic.v1.HubCentral [main] Hub Central is available at port: 8080
+2023-01-10 14:56:28,356 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-01-10 14:56:28,389 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.875 seconds (JVM running for 3.293)
+2023-01-10 14:56:28,416 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules
+2023-01-10 14:56:28,569 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/data-services/ml-exp-search/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:31,896 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.sjs loaded
+2023-01-10 14:56:31,902 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.api loaded
+2023-01-10 14:56:31,906 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.api loaded
+2023-01-10 14:56:31,909 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.api loaded
+2023-01-10 14:56:31,913 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.sjs loaded
+2023-01-10 14:56:31,916 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.api loaded
+2023-01-10 14:56:31,919 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.api loaded
+2023-01-10 14:56:31,923 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.sjs loaded
+2023-01-10 14:56:31,926 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getEntityModels.api loaded
+2023-01-10 14:56:31,929 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.api loaded
+2023-01-10 14:56:31,933 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecentlyVisitedRecords.sjs loaded
+2023-01-10 14:56:31,936 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getMetrics.sjs loaded
+2023-01-10 14:56:31,939 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/service.json loaded
+2023-01-10 14:56:31,943 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getRecords.sjs loaded
+2023-01-10 14:56:31,948 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUserMetaData.api loaded
+2023-01-10 14:56:31,952 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveUserMetaData.sjs loaded
+2023-01-10 14:56:31,955 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/getUiConfig.sjs loaded
+2023-01-10 14:56:31,959 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/saveRecentlyVisitedRecord.api loaded
+2023-01-10 14:56:31,962 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/data-services/ml-exp-search/searchAndTransform.sjs loaded
+2023-01-10 14:56:31,963 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ml-search-lib/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:31,968 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search-impl.xqy loaded
+2023-01-10 14:56:31,973 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ml-search-lib/search.sjs loaded
+2023-01-10 14:56:31,974 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/third-party/fast-xml-parser/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:31,978 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.d.ts loaded
+2023-01-10 14:56:31,986 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/validator.js loaded
+2023-01-10 14:56:31,990 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json_str.js loaded
+2023-01-10 14:56:31,994 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/parser.js loaded
+2023-01-10 14:56:31,999 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/read.js loaded
+2023-01-10 14:56:32,002 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlNode.js loaded
+2023-01-10 14:56:32,006 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/nimndata.js loaded
+2023-01-10 14:56:32,010 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/node2json.js loaded
+2023-01-10 14:56:32,016 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/xmlstr2xmlnode.js loaded
+2023-01-10 14:56:32,020 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/json2xml.js loaded
+2023-01-10 14:56:32,024 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/third-party/fast-xml-parser/util.js loaded
+2023-01-10 14:56:32,024 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/search-lib/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:32,313 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/search-lib/configurable-search-lib.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,314 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/ui-config/ directory to load into entity-viewer-search-modules database
+2023-01-10 14:56:32,320 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/api.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,324 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/dashboard.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,328 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/searchbox.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,330 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/header.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,332 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/search.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,333 INFO com.marklogic.v1.InstallEntityViewerModules [main] File /explore-data/ui-config/detail.config.sjs already exists. Not overriding the file
+2023-01-10 14:56:32,333 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules complete
+2023-01-10 14:56:38,413 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-01-10 14:56:39,143 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-5] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 14:56:39,192 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-8] Created client for host: localhost
+2023-01-10 15:01:55,281 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-3] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 15:01:55,317 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-3] Created client for host: localhost
+2023-01-10 15:02:23,644 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-4] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 15:02:23,671 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-3] Created client for host: localhost
+2023-01-10 15:02:37,757 INFO com.marklogic.v1.controllers.ExploreDataController [http-nio-8080-exec-1] Forwarding the request to http://localhost:8080/api/explore/login
+2023-01-10 15:02:37,782 INFO com.marklogic.v1.auth.AuthenticationFilter [http-nio-8080-exec-8] Created client for host: localhost
+2023-01-31 16:47:42,030 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.16.1 on macpro-6186 with PID 23146 (/Users/ttierney/Code/marklogic-entity-viewer-1.1.1.war started by ttierney in /Users/ttierney/Code/entity-viewer)
+2023-01-31 16:47:42,032 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-31 16:47:42,882 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-31 16:47:42,882 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-01-31 16:47:42,882 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-01-31 16:47:43,592 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-01-31 16:47:43,721 INFO com.marklogic.v1.HubCentral [main] Will connect to MarkLogic host: localhost
+2023-01-31 16:47:43,721 INFO com.marklogic.v1.HubCentral [main] Hub Central is available at port: 8080
+2023-01-31 16:47:44,144 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-01-31 16:47:44,175 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.489 seconds (JVM running for 2.868)
+2023-01-31 16:47:44,208 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules
+2023-01-31 16:47:44,343 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/data-services/ml-exp-search/ directory to load into entity-viewer-search-modules database
+2023-01-31 16:49:25,094 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:765)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at com.marklogic.v1.Application.main(Application.java:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.WarLauncher.main(WarLauncher.java:59)
+Caused by: com.marklogic.client.MarkLogicIOException: java.net.SocketException: Operation timed out (Read failed)
+	at com.marklogic.client.impl.OkHttpServices.sendRequestOnce(OkHttpServices.java:704)
+	at com.marklogic.client.impl.OkHttpServices.sendRequestOnce(OkHttpServices.java:697)
+	at com.marklogic.client.impl.OkHttpServices.doPost(OkHttpServices.java:4193)
+	at com.marklogic.client.impl.OkHttpServices.postResource(OkHttpServices.java:3504)
+	at com.marklogic.client.impl.OkHttpServices.postBulkDocuments(OkHttpServices.java:3607)
+	at com.marklogic.client.impl.DocumentManagerImpl.write(DocumentManagerImpl.java:649)
+	at com.marklogic.client.impl.GenericDocumentImpl.write(GenericDocumentImpl.java:23)
+	at com.marklogic.client.impl.DocumentManagerImpl.write(DocumentManagerImpl.java:624)
+	at com.marklogic.client.impl.GenericDocumentImpl.write(GenericDocumentImpl.java:23)
+	at com.marklogic.client.impl.DocumentManagerImpl.write(DocumentManagerImpl.java:608)
+	at com.marklogic.client.impl.GenericDocumentImpl.write(GenericDocumentImpl.java:23)
+	at com.marklogic.v1.InstallEntityViewerModules.loadModulesIntoDatabase(InstallEntityViewerModules.java:131)
+	at com.marklogic.v1.InstallEntityViewerModules.loadModules(InstallEntityViewerModules.java:89)
+	at com.marklogic.v1.InstallEntityViewerModules.run(InstallEntityViewerModules.java:73)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:762)
+	... 11 common frames omitted
+Caused by: java.net.SocketException: Operation timed out (Read failed)
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at okio.InputStreamSource.read(JvmOkio.kt:90)
+	at okio.AsyncTimeout$source$1.read(AsyncTimeout.kt:129)
+	at okio.RealBufferedSource.indexOf(RealBufferedSource.kt:449)
+	at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.kt:333)
+	at okhttp3.internal.http1.HeadersReader.readLine(HeadersReader.kt:29)
+	at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:178)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:106)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:79)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:96)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at com.burgstaller.okhttp.AuthenticationCacheInterceptor.intercept(AuthenticationCacheInterceptor.java:49)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:197)
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:148)
+	at com.marklogic.client.impl.OkHttpServices.sendRequestOnce(OkHttpServices.java:702)
+	... 25 common frames omitted
+	Suppressed: java.net.SocketException: Operation timed out (Read failed)
+		... 51 common frames omitted
+2023-01-31 16:49:48,475 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application using Java 11.0.16.1 on macpro-6186 with PID 23184 (/Users/ttierney/Code/marklogic-entity-viewer-1.1.1.war started by ttierney in /Users/ttierney/Code/entity-viewer)
+2023-01-31 16:49:48,477 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-01-31 16:49:49,262 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2023-01-31 16:49:49,263 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-01-31 16:49:49,263 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2023-01-31 16:49:49,953 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-01-31 16:49:50,079 INFO com.marklogic.v1.HubCentral [main] Will connect to MarkLogic host: localhost
+2023-01-31 16:49:50,079 INFO com.marklogic.v1.HubCentral [main] Hub Central is available at port: 8080
+2023-01-31 16:49:50,484 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2023-01-31 16:49:50,513 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 2.387 seconds (JVM running for 2.683)
+2023-01-31 16:49:50,546 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading Modules
+2023-01-31 16:49:50,676 INFO com.marklogic.v1.InstallEntityViewerModules [main] Loading modules from explore-data/data-services/ml-exp-search/ directory to load into entity-viewer-search-modules database
+2023-01-31 16:50:55,510 ERROR org.springframework.boot.SpringApplication [main] Application run failed
+java.lang.IllegalStateException: Failed to execute ApplicationRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:765)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at com.marklogic.v1.Application.main(Application.java:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:108)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.WarLauncher.main(WarLauncher.java:59)
+Caused by: com.marklogic.client.MarkLogicIOException: java.net.SocketException: Operation timed out (Read failed)
+	at com.marklogic.client.impl.OkHttpServices.sendRequestOnce(OkHttpServices.java:704)
+	at com.marklogic.client.impl.OkHttpServices.sendRequestOnce(OkHttpServices.java:697)
+	at com.marklogic.client.impl.OkHttpServices.doPost(OkHttpServices.java:4193)
+	at com.marklogic.client.impl.OkHttpServices.postResource(OkHttpServices.java:3504)
+	at com.marklogic.client.impl.OkHttpServices.postBulkDocuments(OkHttpServices.java:3607)
+	at com.marklogic.client.impl.DocumentManagerImpl.write(DocumentManagerImpl.java:649)
+	at com.marklogic.client.impl.GenericDocumentImpl.write(GenericDocumentImpl.java:23)
+	at com.marklogic.client.impl.DocumentManagerImpl.write(DocumentManagerImpl.java:624)
+	at com.marklogic.client.impl.GenericDocumentImpl.write(GenericDocumentImpl.java:23)
+	at com.marklogic.client.impl.DocumentManagerImpl.write(DocumentManagerImpl.java:608)
+	at com.marklogic.client.impl.GenericDocumentImpl.write(GenericDocumentImpl.java:23)
+	at com.marklogic.v1.InstallEntityViewerModules.loadModulesIntoDatabase(InstallEntityViewerModules.java:131)
+	at com.marklogic.v1.InstallEntityViewerModules.loadModules(InstallEntityViewerModules.java:89)
+	at com.marklogic.v1.InstallEntityViewerModules.run(InstallEntityViewerModules.java:73)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:762)
+	... 11 common frames omitted
+Caused by: java.net.SocketException: Operation timed out (Read failed)
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method)
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168)
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140)
+	at okio.InputStreamSource.read(JvmOkio.kt:90)
+	at okio.AsyncTimeout$source$1.read(AsyncTimeout.kt:129)
+	at okio.RealBufferedSource.indexOf(RealBufferedSource.kt:449)
+	at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.kt:333)
+	at okhttp3.internal.http1.HeadersReader.readLine(HeadersReader.kt:29)
+	at okhttp3.internal.http1.Http1ExchangeCodec.readResponseHeaders(Http1ExchangeCodec.kt:178)
+	at okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:106)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:79)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:96)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at com.burgstaller.okhttp.AuthenticationCacheInterceptor.intercept(AuthenticationCacheInterceptor.java:49)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:197)
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:148)
+	at com.marklogic.client.impl.OkHttpServices.sendRequestOnce(OkHttpServices.java:702)
+	... 25 common frames omitted

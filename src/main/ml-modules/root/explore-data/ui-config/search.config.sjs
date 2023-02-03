@@ -56,7 +56,7 @@ const searchConfig  = {
                     "color": "lightgrey"
                 },
                 "sort":{
-                    "entities": ["person", "organization"],
+                    "entities": "GDELT",
                     "label": "Created On",
                     "sortBy": "createdOn",
                     "order": "descending"

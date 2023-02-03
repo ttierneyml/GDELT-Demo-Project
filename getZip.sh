@@ -2,7 +2,7 @@
 #read $1
 #echo "End date: "
 #read $2
-if [ -d "Users/ttierney/Code/entity-viewer/data" ]
+if [ -d "/Users/ttierney/Code/internal//entity-viewer/data" ]
 then
     cd data
 else
@@ -68,9 +68,9 @@ do
             fi
             for k in 00 03 06 09 12 15 18 21
             do
-                curl -LO http://data.gdeltproject.org/gdeltv2/"$CURRYEAR$FM$i$FD$j$k"0000.export.CSV.zip --output 2022"$CURRYEAR$FM$i$FD$j$k"00.export.CSV.zip
-                unzip /Users/ttierney/Code/entity-viewer/data/"$CURRYEAR$FM$i$FD$j$k"0000.export.CSV.ZIP
-                rm /Users/ttierney/Code/entity-viewer/data/"$CURRYEAR$FM$i$FD$j$k"0000.export.CSV.ZIP
+                curl -LO http://data.gdeltproject.org/gdeltv2/"$CURRYEAR$FM$i$FD$j$k"0000.export.CSV.zip
+                unzip /Users/ttierney/Code/internal/entity-viewer/data/"$CURRYEAR$FM$i$FD$j$k"0000.export.CSV.ZIP
+                rm /Users/ttierney/Code/internal/entity-viewer/data/"$CURRYEAR$FM$i$FD$j$k"0000.export.CSV.ZIP
             done
         done
     done
